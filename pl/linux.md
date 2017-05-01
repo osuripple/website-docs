@@ -1,5 +1,5 @@
 ---
-title: "How to connect to Ripple (Linux)"
+title: "Jak połączyć się z Ripple (Linux)"
 reference_version: 3bfc0f4bf02d4629ff2c1fc76d23edde
 ---
 Ten przewodnik jest tylko do połączenia osu! z Ripple, nie ustawiania gry do stanu użytku. Możesz użyć [tego przewodnika](https://gist.github.com/Francesco149/a2f796683a4e5195458f4bb171d88eb0) by zainstalować klienta.
