@@ -14,7 +14,7 @@ You should be brought to a page with Markdown/HTML code. Select it all and copy 
 
 ![](https://u.nya.is/mpxdif.png)
 
-First of all you should name your file properly. First, set the name: it should be `<2 letter country code>/<original name>.md`. For instance, if I am stranslating `irc.md` into French, I would set the title to `fr/irc.md`. If unsure on your 2 letter country code, just ask Howl on the Discord.
+First of all you should name your file properly. First, set the name: it should be `<2 letter country code>/<original name>.md`. For instance, if I am translating `irc.md` into French, I would set the title to `fr/irc.md`. If unsure on your 2 letter country code, just ask Howl on the Discord.
 
 Then, in "Edit new file", paste the text you copied. And before getting into the translation, go to [md5sums.txt](md5sums.txt), and check what's the English md5sum for your file. Then, at the top of the file, delete `old_id`, and write: `reference_version: <md5hash>`, and translate the title. For instance:
 
