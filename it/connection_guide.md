@@ -9,7 +9,7 @@ reference_version: 0992943749e7fb7c8a62ab99d89f495a
 
 
 ### Installazione del certificato
-Se vuoi giocare a ripple con le versioni **stable/beta/cutting edge**, devi installare il nostro certitificato HTTPS.
+Se vuoi giocare a ripple con la **stable/beta/cutting edge**, devi installare il nostro certitificato HTTPS.
 Fai questo soltanto la prima volta che ti connetti a Ripple.  
 
 - Apri lo switcher 
