@@ -1,5 +1,5 @@
 ---
-title: "How to connect to Ripple (Linux)"
+title: "Kết nối với Ripple (Linux)"
 reference_version: 3bfc0f4bf02d4629ff2c1fc76d23edde
 ---
 Hướng dẫn này chỉ dành cho kết nối osu! vào Ripple, chứ không phải cài đặt osu!. Bạn xem [hướng dẫn này](https://gist.github.com/Francesco149/a2f796683a4e5195458f4bb171d88eb0) để cài đặt client
