@@ -1,6 +1,6 @@
 ---
 title: "Zasady"
-old_id: 9
+reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 ---
 <h4 class="cenetered">Zasady mogą być zmienione kiedykolwiek chcemy.<br>Nowe zasady mogą albo nie mogą działać wstecz według naszego uznania.</h4>
 
