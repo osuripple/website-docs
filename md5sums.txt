@@ -1,0 +1,9 @@
+2691370caa5d6c6b071a18281bd440de  en/bots.md
+0992943749e7fb7c8a62ab99d89f495a  en/connection_guide.md
+a9502b221890ea3346597f7b80f5de4d  en/faq.md
+383b905114b125d7bfd87a7dacdc8b56  en/fokabot.md
+96a9ef2265cef92f7a7014f3303b74b9  en/install_certificate_manually.md
+1f7dd61cbdf2c6d8249481deb2a8d847  en/irc.md
+3bfc0f4bf02d4629ff2c1fc76d23edde  en/linux.md
+44f0312e029b42411e60aaa01f6e0c0f  en/rules.md
+f89888117086f84db0fa6855bbae606c  en/secure_contact.md
