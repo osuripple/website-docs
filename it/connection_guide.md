@@ -9,7 +9,7 @@ reference_version: 0992943749e7fb7c8a62ab99d89f495a
 
 
 ### Installazione del certificato
-Se vuoi giocare a ripple con la **stable/beta/cutting edge**, devi installare il nostro certitificato HTTPS.
+Se vuoi giocare a ripple con la **stable/beta/cutting edge**, devi installare il nostro certificato HTTPS.
 Fai questo soltanto la prima volta che ti connetti a Ripple.  
 
 - Apri lo switcher 
@@ -20,13 +20,13 @@ Fai questo soltanto la prima volta che ti connetti a Ripple.
 
 ### Come giocare a Ripple
 - Esegui lo switcher **come amministratore**  
-- Assicurati che **Ripple IP** sia **163.172.71.251** e che **Mirror IP** sia **51.255.90.169**. Se ciò non fosse, clicca **Update IP** per avere i giusti IP.
+- Assicurati che **Ripple IP** sia **163.172.71.251** e che **Mirror IP** sia **51.255.90.169**. Se ciò non fosse, clicca **Update IP** per avere gli IP giusti.
 - Assicurati che lo switcher dica **"You are playing on Ripple server 163.172.71.251 - 51.255.90.169"** (dovrebbe essere simile a [questo](https://b.catgirlsare.sexy/xqJw.png)), se ciò non fosse, clicca **"On/Off"** per cambiare server.  
 - Apri osu! ed entra con il tuo account di ripple 
 - Divertiti  
 
 ### Come giocare di nuovo ad osu! ufficiale
-- Assicurati che osu sia **chiuso**  
+- Assicurati che osu! sia **chiuso**  
 - Apri lo switcher e assicurati che dica **"You are playing on osu! server"** (dovrebbe essere simile a [questo](https://b.catgirlsare.sexy/c_lb.png)), se ciò non fosse, clicca **"On/off"** per cambiare server.
 - Apri osu! ed entra col tuo account di osu!	
 _NOTA:_ Se vuoi connetterti ad osu.ppy.sh e vedi ancora il sito web di ripple anche se lo swithcer è impostato su off, elimina la cache del tuo browser.
