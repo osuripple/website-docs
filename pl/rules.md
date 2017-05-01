@@ -6,7 +6,7 @@ old_id: 9
 
 <h3><i class="game icon"></i> Ogólne zasady</h3>
 
-#### _Jakiekolwiek złamanie zasad w tej sekcji spowoduje, że dostaniesz **Pernamentnego bana**._
+#### _Jakiekolwiek złamanie zasad w tej sekcji spowoduje, że dostaniesz **Permamentnego bana**._
 
 * **Cheatowanie** i każda inna forma oszustwa jest niedozwolona.
 * **Edytowane klienty,** edytowanie klientów w każdy inny sposób niż z zasady poniżej są niedozwolone.
@@ -46,7 +46,7 @@ old_id: 9
 
 <h3><i class="file text outline icon"></i> Zasady cheatowania/multikont</h3>
 
-#### _Tak zajmujemi się cheaterami na ripple._
+#### _Tak zajmujemy się cheaterami na ripple._
 
 * Nie obchodzi nas czy byłeś cheaterem, w osu! czy nosue czy gdziekurwakolwiek. 
 Ale i tak, **nie jesteśmy za cheatowaniem** i od razu zareagujemy na hackowane zagranie.
