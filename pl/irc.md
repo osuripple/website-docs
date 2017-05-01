@@ -1,6 +1,6 @@
 ---
 title: "Łączenie się do Ripple przez IRC"
-old_id: 11
+reference_version: 1f7dd61cbdf2c6d8249481deb2a8d847
 ---
 ## Ripple ma teraz wsparcie dla IRC!
 Czy wiedziałeś że, z najnowszą wersją naszego **pep.py Bancho server**, możesz się połączyć do czatu rippla i rozmawiać z innymi użytkownikami poza grą używając klienta IRC?  
@@ -22,7 +22,7 @@ Gdy już zainstalowałeś klient IRC, możesz połączyć się z Ripple z tymi u
 - **Host:** `irc.ripple.moe`  
 - **Port:** `6667`  
 - **Nick i nazwa użytkownika:** Twoja nazwa użytkownika z Ripple. <u>Jeśli masz spacje w nazwie, zamień je na podkreślniki. Na przykład,</u> `- Zino -` <u>zmienia się w</u> `-_Zino_-`  
-- **Hasło:** Your IRC token, you can get it [here](/irc).  
+- **Hasło:** Twój token IRC, możesz go dostać [tutaj](/irc).  
 
 ### Dostaje błąd "Nickname already in use" gdy chce się zalogować!
 Sprawdź czy na pewno nie jesteś połączony przez Bancho lub inny klient IRC. Jeśli dalej nie działa, spróbuj za 2 minuty i powinno zadziałać.
