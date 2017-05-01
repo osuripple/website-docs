@@ -1,6 +1,5 @@
 ---
-title: "Bots"
-old_id: 13
+reference_version: 2691370caa5d6c6b071a18281bd440de
 ---
 Ripple besitzt ein paar Bots, mit denen du über den in-Game Chat tolle Sachen machen kannst. Hier ist eine Liste einiger Bots. Um loszulegen,
 schreibe den jeweiligen Bot in-Game an. Sofern du deinen eigenen Bot einbringen willst, gar kein Problem!
