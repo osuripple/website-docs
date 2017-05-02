@@ -1,5 +1,5 @@
 ---
-title: "Installing the certificate manually"
+title: "Installazione manuale del certificato"
 reference_version: 96a9ef2265cef92f7a7014f3303b74b9
 ---
 Se riscontri dei problemi nel connetterti a Ripple usando la stable (latest)/beta/cuttingedge o lo switcher non installa correttamente il certificato, puoi installare il certificato manualmente.
