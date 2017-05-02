@@ -30,7 +30,7 @@ Clicca *Avanti*.
 
 Seleziona *Posiziona tutti i certificati nel seguente archivio*, e clicca *Sfoglia*.
 
-Seleziona **Autorità di certificazione fonti attendibili**, e clicca *Ok*.
+Seleziona **Autorità di certificazione radice attendibili**, e clicca *Ok*.
 
 Clicca *Avanti*, *Fine*.
 
