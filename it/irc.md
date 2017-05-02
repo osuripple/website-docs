@@ -1,5 +1,5 @@
 ---
-title: "Connecting to Ripple through IRC"
+title: "Connetteris a Ripple tramite IRC"
 reference_version: 1f7dd61cbdf2c6d8249481deb2a8d847
 ---
 ## Ripple adesso ha una IRC!
