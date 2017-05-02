@@ -48,7 +48,7 @@ reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 
 #### _Questo è il modo in cui gestiamo i cheater e i multiaccounter su Ripple._
 
-* Non ci interessa se sei stato un cheater nel passato, fallo su osu! su nosue o dove cavolo ti pare. 
+* Non ci interessa se sei stato un cheater nel passato, che tu lo sia stato su osu! su nosue o dove cavolo ti pare. 
 Ciò nonostante, **siamo CONTRARI al cheating**, e agiremo immediatamente su qualsiasi punteggio hackerato.
 * I multiaccount **NON** sono permessi, con la **SOLA ECCEZIONE DEI BOT PER LA CHAT**.  Se ne stai sviluppando uno e hai bisogno di un account per esso,  manda una mail al [supporto](mailto:support@ripple.moe) (o ad uno [sviluppatore](mailto:howl@ripple.moe))
 * Ci riserviamo il diritto di cambiare queste regole in base a come riteniamo.
@@ -57,4 +57,4 @@ Ciò nonostante, **siamo CONTRARI al cheating**, e agiremo immediatamente su qua
 
 * [Leggi le due regole seguenti con questa canzone in sottofondo.](https://www.youtube.com/watch?v=OBQE_TNI7zw)
 * Puoi cambiare la bandiera del tuo profilo mandando una mail al [supporto](mailto:support@ripple.moe), e mandando una foto di un documento valido ed un post-it o un pezzo di carta con sopra il tuo nome di Ripple. I documenti verranno scrupolosamente visionati ~~dai nostri ispettori di confine~~.
-* Se provi a prendere in giro il team del supporto (ad esempio fornendo falsi documenti), ~~ti rispediamo a Kolechia~~ verrai bannato. Semplicemente così.
+* Se provi a prendere in giro il team del supporto (ad esempio fornendo falsi documenti), ~~ti rispediamo in Kolechia~~ verrai bannato. Semplicemente così.
