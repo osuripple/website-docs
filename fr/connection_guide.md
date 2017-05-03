@@ -16,7 +16,7 @@ Faites ceci uniquement la première fois que vous vous connectez à Ripple.
 - Cliquez sur **"Install certificate"**  
 - Cliquez **"Oui"**  
 
-*Si vous ne pouvez pas installer le certificat correctement, suivez [ces instructions](https://ripple.moe/index.php?p=16&id=12) pour l'installer manuellement.
+Si vous ne pouvez pas installer le certificat correctement, suivez [ces instructions](https://ripple.moe/index.php?p=16&id=12) pour l'installer manuellement.
 
 ### Comment jouer sur Ripple
 - Exécuté le changeur de changeur **en tant qu'administrateur**  
