@@ -2,40 +2,40 @@
 title: "Comment se connecter à Ripple"
 reference_version: 0992943749e7fb7c8a62ab99d89f495a
 ---
-- [Register](http://ripple.moe/index.php?p=3) an account  
-- Download [ripple server switcher](https://mu.nyodev.xyz/upd.php?id=18)
-- **Extract rss.exe** somewhere (eg: on your desktop)  
-- **Turn off your antivirus** (some antiviruses might cause some issues)  
+- [Enregistrez](http://ripple.moe/index.php?p=3) un compte
+- Télécharger [ripple changeur de serveur](https://mu.nyodev.xyz/upd.php?id=18)
+- **Extraire rss.exe** quelque par (ex: sur votre bureau)  
+- **Désactivez votre antivirus** (Certains antivirus peuvent causer des problèmes)  
 
 
-### Certificate installation
-If you want to play on ripple with **stable/beta/cutting edge**, you must install our HTTPS certificate.  
-Do this only the first time you connect to Ripple.  
+### Installation du certificat
+Si vous voulez jouer à Ripple avec ** stable / beta / expérimental **, vous devez installer notre certificat HTTPS.
+Faites ceci uniquement la première fois que vous vous connectez à Ripple. 
 
-- Open the switcher  
-- Click on **"Install certificate"**  
-- Click **"Yes"**  
+- Ouvrir le changeur de serveur
+- Cliquez sur **"Install certificate"**  
+- Cliquez **"Oui"**  
 
-*If you can't install the certificate properly, follow [these instructions](https://ripple.moe/index.php?p=16&id=12) to install it manually.*
+*Si vous ne pouvez pas installer le certificat correctement, suivez [ces instructions](https://ripple.moe/index.php?p=16&id=12) pour l'installer manuellement.
 
-### How to play on Ripple
-- Run the switcher **as administrator**  
-- Make sure **Ripple IP** is **163.172.71.251** and **Mirror IP** is **37.187.125.67**. If not, click **Update IP** to get the right IPs.
-- Make sure that the switcher says **"You are playing on Ripple server 163.172.71.251 - 37.187.125.67"** (it should look like [this](https://b.catgirlsare.sexy/xqJw.png)), if not, click **"On/Off"** to switch server.  
-- Open osu! and login with your ripple account  
-- Enjoy  
+### Comment jouer sur Ripple
+- Exécuté le changeur de changeur **en tant qu'administrateur**  
+- Assurez-vous que **Ripple IP** est **163.172.71.251** **Mirror IP** est **37.187.125.67**. Si non, cliquez sur **Update IP** our obtenir les bonnes adresses IP.
+- Assurez-vous que le changeur de serveur vous disent **"You are playing on Ripple server 163.172.71.251 - 37.187.125.67"** (ça devrait ressembler à [ça](https://b.catgirlsare.sexy/xqJw.png)), Si non, cliquez sur **"On/Off"** pour changer de serveur.  
+- Ouvrez osu! et connectez-vous avec votre compte Ripple 
+- Prennez plaisir
 
-### How to play on official osu! again
-- Make sure osu! is **closed**  
-- Open the switcher and make sure it says **"You are playing on osu! server"** (it should look like [this](https://b.catgirlsare.sexy/c_lb.png)), if not, click **"On/off"** to switch server.
-- Open osu! and login with your osu! account  
-_NOTE:_ If you want to connect to osu.ppy.sh and you still see ripple's website even if the switcher is off, empty your browser cache.
+### Comment jouer sur osu! officiel
+- Assurez-vous que osu! est **fermé**  
+- Ouvrez le changeur de serveur et assurez-vous qu'il dit **"You are playing on osu! server"** (ça devrait ressembler à [ça](https://b.catgirlsare.sexy/c_lb.png)), Si non, cliquez sur **"On/off"** pour changer de serveur.
+- Ouvrez osu! et connectez-vous avec votre compte osu!
+_NOTE:_ Si vous souhaitez vous connecter à osu.ppy.sh et que vous voyez toujours le site Web de Ripple, même si le changeur de serveur est éteint,videz le cache de votre navigateur.
 
-### How to update osu!/switch release branch
-- Make sure osu! is **closed**  
-- Open the switcher and make sure it says **"You are playing on osu! server"** (it should look like [this](https://b.catgirlsare.sexy/c_lb.png) )  
-- Open osu! and update the game
+### Comment mettre à jour votre osu!/changeur de serveur à la bonne version
+- Assurez-vous que osu! est **fermé**  
+- Ouvrez le changeur de serveur et assurez-vous qu'il dit **"You are playing on osu! server"** (ça devrait ressembler à [ça](https://b.catgirlsare.sexy/c_lb.png) )  
+- Ouvrez osu! et mettez à jour le jeu
 
-### Having troubles?
+### Des problèmes ?
 
-Check out our [FAQ](https://ripple.moe/doc/5)
+Consultez notre [FAQ](https://ripple.moe/doc/5)
