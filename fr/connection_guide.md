@@ -1,6 +1,6 @@
 ---
 title: "Comment se connecter à Ripple"
-0992943749e7fb7c8a62ab99d89f495a
+reference_version: 0992943749e7fb7c8a62ab99d89f495a
 ---
 - [Register](http://ripple.moe/index.php?p=3) an account  
 - Download [ripple server switcher](https://mu.nyodev.xyz/upd.php?id=18)
