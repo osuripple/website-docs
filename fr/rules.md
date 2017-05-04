@@ -39,7 +39,7 @@ reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 #### _Toute violation des règles dans ce serveur de Discord entraînera un <u>silence / kick</u> ou, dans le pire des cas, un **ban**._
 
 * Se comportent **joliment**.
-* Ne spammez pas le **#général**, utilisez plutôt **#spammerino **.
+* Ne spammez pas le **#général**, utilisez plutôt **#spammerino**.
 * Ne partagez pas du PE (Pornographie enfantine) ou autre **Choses illégales / warez / virus**.
 * Ne pissez pas les administrateurs.
 * Ne faites d'aucune sorte d'**accusation de tricherie** (Utilisez #cheatreporting sur Discord ou signalez la personne que vous soupçonnez à un Community Manager)
