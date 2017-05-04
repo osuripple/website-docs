@@ -1,4 +1,4 @@
----
+Any violation of the rules in this section will result in a silence.---
 title: "Règles"
 reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 ---
@@ -17,7 +17,7 @@ reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 
 <h3><i class="comment icon"></i> Règles de discussion dans le jeu</h3>
 
-#### _Any violation of the rules in this section will result in a **silence**._
+#### _Toute violation des règles de cette section entraînera un **silence**._
 
 * Ne pas **spam** dans le chat.
 * Ne partagez pas **stuff illégal / warez / virus** dans le chat.
