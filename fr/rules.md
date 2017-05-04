@@ -1,60 +1,60 @@
 ---
-title: "Rules"
-old_id: 9
+title: "Règles"
+reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 ---
-<h4 class="cenetered">Rules may be changed at any time as we see fit.<br>New rules may or may not be retroactive at our own discretion.</h4>
+<h4 class="cenetered">Les règles peuvent être modifiées à tout moment, selon nos besoins.<br>Les nouvelles règles peuvent ou non être rétroactives à notre propre discrétion.</h4>
 
-<h3><i class="game icon"></i> General rules</h3>
+<h3><i class="game icon"></i> Règles générales</h3>
 
-#### _Any violation of the rules in this section will result in a **permanent ban**._
+#### _oute violation des règles de cette section entraînera un **ban permanent**._
 
-* **Cheating** and any other form of hacking are strictly prohibited.
-* **Edited clients,** with the exception for the next rule, are not allowed.
-* **Client patching** (instead of host redirection) is allowed but we won't help you if you break the client.
-* **Shared or boosted** accounts are not allowed.
-* Don't try to **exploit the server** or other akerino.
-* Use an **appropriate username** (no offensive or **stolen names**, e.g. you can't choose to be Cookiezi, WubWoofWolf, Rafis, _index, etc...)
+* **Cheats** et toute autre forme de piratage sont strictement interdits.
+* **Les clients édités**, à l'exception de la règle suivante, ne sont pas autorisés.
+* **Le correctif client** (au lieu de la redirection hôte) est autorisé, mais nous ne vous aiderons pas si vous casser le jeu.
+* **Les comptes partagés ou boostés** ne sont pas autorisés.
+* N'essayez pas **d'exploiter le serveur** ou d'autres Akerino.
+* Utilisez un **nom d'utilisateur approprié** (pas de noms offensifs ou ** volés **, par exemple, vous ne pouvez pas choisir choisir de mettre Cookiezi, WubWoofWolf, Rafis, _index, etc ...)
 
-<h3><i class="comment icon"></i> In-game chat rules</h3>
+<h3><i class="comment icon"></i> Règles de discussion dans le jeu</h3>
 
 #### _Any violation of the rules in this section will result in a **silence**._
 
-* Don't **spam** in chat.
-* Don't share **illegal stuff/warez/viruses** in chat.
-* Don't **offend** other players in chat.
-* Don't abuse **swearing.**
-* Don't make any kind of **cheating accusation** (Use #cheaterreporting on Discord or report the person you suspect to a Community Manager)
+* Ne pas **spam** dans le chat.
+* Ne partagez pas **stuff illégal / warez / virus** dans le chat.
+* Ne pas **offenser** d'autres joueurs dans le chat.
+* Ne pas abuser de **jurons.**
+* Ne faites aucune sorte de **accusation de tricherie** (Utilisez #cheatreporting sur Discord ou signalez la personne que vous soupçonnez à un Community Manager)
 
 
-<h3><i class="user icon"></i> Userpage/avatar rules</h3>
+<h3><i class="user icon"></i> règles de page de l'utilisateur/avatar</h3>
 
-#### _Any violation of the rules in this section will result in a **silence and userpage/avatar reset**._
+#### _Toute violation des règles de cette section entraînera un **silence et une/un page d'utilisateur/avatar réinitialisée**._
 
-* **NSFW and offensive** avatars/userpage contents are not allowed.
-* Don't link to **illegal stuff**/porn/warez/viruses on userpages.
-* Do not use **offensive custom badges** and do not **pretend to be someone else with your custom badge**. If you abuse the badges system, you'll be silenced and you won't be able to edit your custom badge anymore.
+* **NSFW et contenue offensant** les avatars / contenu de la page d'utilisateur ne sont pas autorisés.
+* Ne pas lier aux **choses illégales**, pornographie/ warez / virus sur les pages d'utilisateur.
+* N'utilisez pas **des badges personnalisés offensants** et ne prétendez pas être quelqu'un d'autre avec votre badge personnalisé **. Si vous abusez du système de badges, vous serez mute et vous ne pourrez plus modifier votre badge personnalisé.
 
-<h3><i class="comment icon"></i> Discord rules</h3>
+<h3><i class="comment icon"></i> Règles du Discord</h3>
 
-#### _Any violation of the rules in this discord server will result in a <u>silence/kick</u> or, in the worst case, a **ban**._
+#### _Toute violation des règles dans ce serveur de Discord entraînera un <u>silence / kick</u> ou, dans le pire des cas, un **ban**._
 
-* Behave **nicely**.
-* Don't spam in **#general**, instead use **#spammerino**.
-* Don't share CP (Child Porn) or other **illegal stuff/warez/viruses**.
-* Don't piss admins off.
-* Don't make any kind of **cheating accusation** (Use #cheaterreporting on DIscord or report the person you suspect to a Community Manager)
+* Se comportent **joliment**.
+* Ne spammez pas le **#général**, utilisez plutôt **#spammerino **.
+* Ne partagez pas du PE (Pornographie enfantine) ou autre **Choses illégales / warez / virus**.
+* Ne pissez pas les administrateurs.
+* Ne faites d'aucune sorte d'**accusation de tricherie** (Utilisez #cheatreporting sur Discord ou signalez la personne que vous soupçonnez à un Community Manager)
 
-<h3><i class="file text outline icon"></i> Cheat/multiaccount policy</h3>
+<h3><i class="file text outline icon"></i> Politique de triche / compte-multiple</h3>
 
-#### _This is how we handle cheaters and multiaccounters on Ripple._
+#### _C'est ainsi que nous traitons les tricheurs et les multi-comptes sur Ripple._
 
-* We don't care if you have been a cheater in the past, be it on osu! or nosue or whatever the fuck. 
-Despite that, **we ARE against cheating**, and will take immediate action on any hacked score.
-* Multiaccounts are **NOT** allowed, with the **SOLE EXCEPTION OF CHAT BOTS**.  If you are developing one and need an account for it,  mail [support](mailto:support@ripple.moe) (or a [dev](mailto:howl@ripple.moe))
-* We reserve the right to change these rules as we see fit.
+* Nous ne nous soucions pas si vous avez été un tricheur dans le passé, que ce soit sur osu! ou nosue ou autre putain. 
+Malgré cela, **nous sommes contre la triche**, et nous prendrons des mesures immédiates sur tout score piraté.
+* Les comptes multiples sont **NON** autorisés, avec la ** XCEPTION EXCLUSIVE DE CHAT BOTS**. Si vous développez un et avez besoin d'un compte, envoyez un courrier [support](mailto:support@ripple.moe) (ou un [dev](mailto:howl@ripple.moe))
+* Nous nous réservons le droit de modifier ces règles comme bon nous paraît.
 
-<h3><i class="list layout icon"></i> Miscellaneous</h3>
+<h3><i class="list layout icon"></i> Divers</h3>
 
-* [Read the next two rules with this song in the background.](https://www.youtube.com/watch?v=OBQE_TNI7zw)
-* You can change your profile flag mailing [support](mailto:support@ripple.moe), and sending a picture with a valid document and a post-it or a piece of paper with your Ripple name. The documents will be carefully investigated ~~by our border inspector~~.
-* If you try to fuck with the support team (e.g. giving a false document), ~~we'll send you back to Kolechia~~ you'll get banned. Easy as that.
+* [Lisez les deux règles suivantes avec cette chanson en arrière-plan.](https://www.youtube.com/watch?v=OBQE_TNI7zw)
+* Vous pouvez modifier votre drapeau en envoyant un mail au [support](mailto:support@ripple.moe), et en envoyant une image avec un document valide et une publication ou un morceau de papier avec votre nom Ripple. Les documents seront soigneusement étudiés ~~.par notre inspecteur des frontières~~.
+* Si vous essayez de nous enculer avec l'équipe du support (par exemple, en donnant un faux document),~~nous vous enverrons de nouveau à Kolechia~~, vous serez banni. Facile comme ça.
