@@ -56,5 +56,5 @@ Malgré cela, **nous sommes contre la triche**, et nous prendrons des mesures im
 <h3><i class="list layout icon"></i> Divers</h3>
 
 * [Lisez les deux règles suivantes avec cette chanson en arrière-plan.](https://www.youtube.com/watch?v=OBQE_TNI7zw)
-* Vous pouvez modifier votre drapeau en envoyant un mail au [support](mailto:support@ripple.moe), et en envoyant une image avec un document valide et une publication ou un morceau de papier avec votre nom Ripple. Les documents seront soigneusement étudiés ~~.par notre inspecteur des frontières~~.
+* Vous pouvez modifier votre drapeau en envoyant un mail au [support](mailto:support@ripple.moe), et en envoyant une image avec un document valide et une publication ou un morceau de papier avec votre nom Ripple. Les documents seront soigneusement étudiés ~~par notre inspecteur des frontières~~.
 * Si vous essayez de nous enculer avec l'équipe du support (par exemple, en donnant un faux document),~~nous vous enverrons de nouveau à Kolechia~~, vous serez banni. Facile comme ça.
