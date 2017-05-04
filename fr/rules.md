@@ -1,4 +1,4 @@
-Any violation of the rules in this section will result in a silence.---
+---
 title: "Règles"
 reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 ---
