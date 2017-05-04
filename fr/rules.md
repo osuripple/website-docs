@@ -6,7 +6,7 @@ reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 
 <h3><i class="game icon"></i> Règles générales</h3>
 
-#### _oute violation des règles de cette section entraînera un **ban permanent**._
+#### _Toute violation des règles de cette section entraînera un **ban permanent**._
 
 * **Cheats** et toute autre forme de piratage sont strictement interdits.
 * **Les clients édités**, à l'exception de la règle suivante, ne sont pas autorisés.
