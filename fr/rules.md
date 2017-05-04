@@ -26,7 +26,7 @@ reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 * Ne faites aucune sorte de **accusation de tricherie** (Utilisez #cheatreporting sur Discord ou signalez la personne que vous soupçonnez à un Community Manager)
 
 
-<h3><i class="user icon"></i> règles de page de l'utilisateur/avatar</h3>
+<h3><i class="user icon"></i> Règles de page de l'utilisateur/avatar</h3>
 
 #### _Toute violation des règles de cette section entraînera un **silence et une/un page d'utilisateur/avatar réinitialisée**._
 
