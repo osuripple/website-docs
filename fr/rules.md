@@ -50,7 +50,7 @@ reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 
 * Nous ne nous soucions pas si vous avez été un tricheur dans le passé, que ce soit sur osu! ou nosue ou autre putain. 
 Malgré cela, **nous sommes contre la triche**, et nous prendrons des mesures immédiates sur tout score piraté.
-* Les comptes multiples sont **NON** autorisés, avec la ** XCEPTION EXCLUSIVE DE CHAT BOTS**. Si vous développez un et avez besoin d'un compte, envoyez un courrier [support](mailto:support@ripple.moe) (ou un [dev](mailto:howl@ripple.moe))
+* Les comptes multiples sont **NON** autorisés, avec la **EXCEPTION EXCLUSIVE DE CHAT BOTS**. Si vous développez un et avez besoin d'un compte, envoyez un courrier [support](mailto:support@ripple.moe) (ou un [dev](mailto:howl@ripple.moe))
 * Nous nous réservons le droit de modifier ces règles comme bon nous paraît.
 
 <h3><i class="list layout icon"></i> Divers</h3>
