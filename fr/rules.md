@@ -13,7 +13,7 @@ reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 * **Le correctif client** (au lieu de la redirection hôte) est autorisé, mais nous ne vous aiderons pas si vous casser le jeu.
 * **Les comptes partagés ou boostés** ne sont pas autorisés.
 * N'essayez pas **d'exploiter le serveur** ou d'autres Akerino.
-* Utilisez un **nom d'utilisateur approprié** (pas de noms offensifs ou ** volés **, par exemple, vous ne pouvez pas choisir choisir de mettre Cookiezi, WubWoofWolf, Rafis, _index, etc ...)
+* Utilisez un **nom d'utilisateur approprié** (pas de noms offensifs ou **volés**, par exemple, vous ne pouvez pas choisir choisir de mettre Cookiezi, WubWoofWolf, Rafis, _index, etc ...)
 
 <h3><i class="comment icon"></i> Règles de discussion dans le jeu</h3>
 
@@ -32,7 +32,7 @@ reference_version: 44f0312e029b42411e60aaa01f6e0c0f
 
 * **NSFW et contenue offensant** les avatars / contenu de la page d'utilisateur ne sont pas autorisés.
 * Ne pas lier aux **choses illégales**, pornographie/ warez / virus sur les pages d'utilisateur.
-* N'utilisez pas **des badges personnalisés offensants** et ne prétendez pas être quelqu'un d'autre avec votre badge personnalisé **. Si vous abusez du système de badges, vous serez mute et vous ne pourrez plus modifier votre badge personnalisé.
+* N'utilisez pas **des badges personnalisés offensants** et ne prétendez pas être quelqu'un d'autre avec votre badge personnalisé. Si vous abusez du système de badges, vous serez mute et vous ne pourrez plus modifier votre badge personnalisé.
 
 <h3><i class="comment icon"></i> Règles du Discord</h3>
 
