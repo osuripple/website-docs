@@ -9,7 +9,7 @@ reference_version: 0992943749e7fb7c8a62ab99d89f495a
 
 
 ### Installation du certificat
-Si vous voulez jouer à Ripple avec ** stable / beta / expérimental **, vous devez installer notre certificat HTTPS.
+Si vous voulez jouer à Ripple avec **stable / beta / expérimental**, vous devez installer notre certificat HTTPS.
 Faites ceci uniquement la première fois que vous vous connectez à Ripple. 
 
 - Ouvrir le changeur de serveur
