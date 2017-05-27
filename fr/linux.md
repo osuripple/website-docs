@@ -25,11 +25,11 @@ Double-cliquez sur l'icône *Internet Settings*, accédez à l'onglet *Content*,
 
 Cliquez sur *Importer*, puis *Suivant*.
 
-Cliquez sur * Parcourir ... * puis sélectionnez le certificat Ripple.
+Cliquez sur *Parcourir...* puis sélectionnez le certificat Ripple.
 
 Cliquez sur *Suivant*.
 
-Sélectionnez * Placez tous les certificats dans le store suivant *, et cliquez sur * Parcourir *.
+Sélectionnez *Placez tous les certificats dans le store suivant*, et cliquez sur *Parcourir*.
 
 Sélectionnez **Autorités de certification racine de confiance** et cliquez sur *OK*.
 
