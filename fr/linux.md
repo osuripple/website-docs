@@ -14,7 +14,7 @@ Lorsque vous l'ouvrez, copiez ce qui suit en bas:
 163.172.71.251 osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
 51.255.90.169 bm6.ppy.sh
 ```
-**CTRL+X** et après **Enter** pour enrengistrer le ficher.
+**CTRL+X** et après **Entrer** pour enrengistrer le ficher.
 
 ### Installation du certificat
 Téléchargez le certificat en cliquant [*ici*](https://git.zxq.co/ripple/ripple-server-switcher/raw/master/RippleServerSwitcher/Resources/certificate.cer)
