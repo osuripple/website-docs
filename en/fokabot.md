@@ -4,7 +4,7 @@ old_id: 4
 ---
 Ce sont les commandes prises en charge par FokaBot, notre bot chat.
 
-### General commands
+### Commandes générales
 - `!roll` - Renvoie un nombre aléatoire de 0 à 100  
 - `!roll num` - Renvoie un nombre aléatoire de 0 au nombre que vous avez mis  
 - `!help` - Affiche le message d'aide 
