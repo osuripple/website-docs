@@ -2,12 +2,11 @@
 title: "Connexion à Ripple via IRC"
 reference_version: 1f7dd61cbdf2c6d8249481deb2a8d847
 ---
-## Ripple a maintenant un support IRC!
+## Ripple a maintenant un support IRC !
 Saviez-vous qu'avec la dernière version de notre **pep.py Bancho serveur**, vous pouvez vous connecter au chat de Ripple et parler avec d'autres utilisateurs à l'extérieur du jeu à l'aide d'un client IRC?
 C'est super facile! Suivez les instructions ci-dessous pour savoir comment le faire.
 
 ### Avant de commencer...
-134/5000
 Veuillez noter que le support IRC est encore en **travail en cours** et pourrait ne pas fonctionner avec **chaque client IRC** ou pourrait avoir des **bugs**.
 Notre serveur IRC ne gère que **les commandes de base** en ce moment, comme PASS, NICK, USER, PRIVMSG, AVIS, JOIN, PART et QUIT.
 Le support pour plus de commandes viendra plus tard. 
