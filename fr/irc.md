@@ -19,7 +19,7 @@ Si vous souhaitez vous connecter à partir de votre navigateur, [Kiwi IRC](https
 <br>
 Lorsque vous avez installé un client IRC, vous pouvez vous connecter à Ripple avec ces paramètres :
 
-- ** Hôte :** `irc.ripple.moe`  
+- **Hôte :** `irc.ripple.moe`  
 - **Port :** `6667`  
 - **Pseudo et nom d'utilisateur :** Votre nom d'utilisateur ripple. <u>Si vous avez des espaces à votre nom, remplacez-les par des caractères de soulignement. Par exemple,</u> `- Zino -` <u>devient </u>`-_Zino_-`
 - **Mot de passe :** Votre jeton IRC, Vous pourrez l'avoir [ici](/irc).    
