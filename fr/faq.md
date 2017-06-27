@@ -17,8 +17,8 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 
 -----------------------
 
-- **J'ai reçu "Connection failed" when I try to connect to Ripple**  
-- Make sure the IP in the switcher is **46.105.123.39** not **127.0.0.1**. If the IP is set to 127.0.0.1, click the "Local/Remote" button, restart osu! and try to log in again. If you still can't solve this problem, come on our [Discord](https://discord.gg/0rJcZruIsA6rXuIx) and we'll help you.
+- **J'ai reçu "Connection failed" quand j'essaye de me connecter sur Ripple**  
+- Soyez sûr que l'adresse IP sur le changeur de serveur est bien **46.105.123.39** et non **127.0.0.1**. Si l'adresse IP a été réglé sur 127.0.0.1, cliquez sur le bouton "Local/Remote", redémarrez osu! et réessayez de vous connecter. Si celà n'a pas résolu votre problème, venez sur notre [Discord](https://discord.gg/0rJcZruIsA6rXuIx) et nous vous aiderons.
 
 -----------------------
 
