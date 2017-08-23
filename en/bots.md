@@ -6,5 +6,5 @@ Ripple has a few bots you can contact in-game that can do some awesome things! H
 
 * [FokaBot](https://ripple.moe/?u=999) (official ripple bot) - [Commands](https://ripple.moe/index.php?p=16&id=4) - [Source](https://git.zxq.co/ripple/pep.py/src/master/constants/fokabotCommands.py)
 * [Tillerino](https://ripple.moe/?u=8887) - [GitHub](https://github.com/Tillerino/Tillerinobot)
-* [AiAeBot](https://ripple.moe/?u=9973) - [Website](https://pi.aiaegames.xyz/) - [zxq](https://zxq.co/AiAeGames/AiAeBot)
+* [AyyAyyeBot](https://ripple.moe/?u=9973) - [Website](https://bot.aiaegames.xyz/) - [GitHub](https://github.com/AiAe/aiae)
 * [memebot](https://ripple.moe/?u=12739)
