@@ -27,7 +27,7 @@ Do this only the first time you connect to Ripple.
 
 ### How to play on official osu! again
 - Make sure osu! is **closed**  
-- Open the switcher and make sure it says **"You are playing on osu! server"** (it should look like [this](https://b.catgirlsare.sexy/c_lb.png)), if not, click **"On/off"** to switch server.
+- Open the switcher and make sure it says **"You are playing on osu! server"** (it should look like [this](https://b.catgirlsare.sexy/c_lb.png)), if not, click **"On/Off"** to switch server.
 - Open osu! and login with your osu! account  
 _NOTE:_ If you want to connect to osu.ppy.sh and you still see ripple's website even if the switcher is off, empty your browser cache.
 
