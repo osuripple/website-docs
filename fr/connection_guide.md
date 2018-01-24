@@ -1,6 +1,6 @@
 ---
 title: "Comment se connecter à Ripple"
-reference_version: 0992943749e7fb7c8a62ab99d89f495a
+reference_version: 29daad728c5e92a46c9d7c12206aabd9
 ---
 - [Enregistrez](http://ripple.moe/index.php?p=3) un compte
 - Télécharger le [changeur de serveur](https://mu.nyodev.xyz/upd.php?id=18)

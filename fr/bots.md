@@ -1,6 +1,6 @@
 ---
 title: "Bots"
-reference_version: 2691370caa5d6c6b071a18281bd440de
+reference_version: b19ff6a0ba1318a00ce875a0411714b4
 ---
 Ripple a quelques bots que vous pouvez contacter dans le jeu, qui peuvent faire des choses incroyables! Voici une liste, pour commencer, contactez-les dans le jeu. Si vous souhaitez adapter votre bot à Ripple, n'hésitez pas à le faire! L'API de Ripple couvre la plupart des points d'extrémité de l'API officielle de osu! Bien qu'elle ait beaucoup d'autres fonctionnalités, qui seront publiées avec espoir prochainement. Si vous souhaitez obtenir de l'aide sur l'API, rejoignez le canal [Discord](https://discord.gg/0rJcZrIsA6rXuIx) #api. Si vous souhaitez obtenir un compte bot, contactez le [support](mailto:support@ripple.moe). Si vous souhaitez ajouter un bot à cette liste, contactez [Howl](mailto:howl@ripple.moe), par e-mail ou par Discord.
 
