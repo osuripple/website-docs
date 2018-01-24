@@ -20,8 +20,8 @@ Jage kowateki gelebiti yotedakiko kotepushu gele Ripple.
 
 ### Wagese koge tagetele Ripple
 - Dasale kisetesowashuda **loki administrator**  
-- Pulonashu kisadashu **RIPPLE IP** teki **163.172.71.251** loleja **Mirror IP** teki **37.187.125.67**. Teyo legeko, sobitesona **Update IP** koge mishuko datemiwako IPs.
-- Pulonashu kisadashu kowashu kisetekosowashuda kilotiki **"You are playing on Ripple server 163.172.71.251 - 37.187.125.67"** (teko kiwagesabija tushu bitenashu [kowateki](https://b.catgirlsare.sexy/xqJw.png)), teyo legeko, sobitesona **"On/Off"** koge kisetekosowa kishudahashuda.  
+- Pulonashu kisadashu **RIPPLE IP** teki **163.172.71.251** loleja **Mirror IP** teki **51.255.90.169**. Teyo legeko, sobitesona **Update IP** koge mishuko datemiwako IPs.
+- Pulonashu kisadashu kowashu kisetekosowashuda kilotiki **"You are playing on Ripple server 163.172.71.251 - 51.255.90.169"** (teko kiwagesabija tushu bitenashu [kowateki](https://b.catgirlsare.sexy/xqJw.png)), teyo legeko, sobitesona **"On/Off"** koge kisetekosowa kishudahashuda.  
 - Gewoshule osu! loleja bigemitele gele ripple account 
 - Shuletageti
 
