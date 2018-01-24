@@ -20,8 +20,8 @@ Fai questo soltanto la prima volta che ti connetti a Ripple.
 
 ### Come giocare a Ripple
 - Esegui lo switcher **come amministratore**  
-- Assicurati che **Ripple IP** sia **163.172.71.251** e che **Mirror IP** sia **51.255.90.169**. Se ciò non fosse, clicca **Update IP** per avere gli IP giusti.
-- Assicurati che lo switcher dica **"You are playing on Ripple server 163.172.71.251 - 51.255.90.169"** (dovrebbe essere simile a [questo](https://b.catgirlsare.sexy/xqJw.png)), se ciò non fosse, clicca **"On/Off"** per cambiare server.  
+- Assicurati che **Ripple IP** sia **163.172.71.251** e che **Mirror IP** sia **51.15.222.176**. Se ciò non fosse, clicca **Update IP** per avere gli IP giusti.
+- Assicurati che lo switcher dica **"You are playing on Ripple server 163.172.71.251 - 51.15.222.176"** (dovrebbe essere simile a [questo](https://b.catgirlsare.sexy/xqJw.png)), se ciò non fosse, clicca **"On/Off"** per cambiare server.  
 - Apri osu! ed entra con il tuo account di ripple 
 - Divertiti  
 

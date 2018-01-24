@@ -11,7 +11,7 @@ When you've got it open, paste the following at the bottom:
 
 ```
 163.172.71.251 osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
-51.255.90.169 bm6.ppy.sh
+51.15.222.176 bm6.ppy.sh
 ```
 **CTRL+X** and then **Enter** to save the file.
 

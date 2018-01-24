@@ -12,7 +12,7 @@ Lorsque vous l'ouvrez, copiez ce qui suit en bas:
 
 ```
 163.172.71.251 osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
-51.255.90.169 bm6.ppy.sh
+51.15.222.176 bm6.ppy.sh
 ```
 **CTRL+X** et après **Entrer** pour enrengistrer le ficher.
 

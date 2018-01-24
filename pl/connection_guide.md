@@ -20,8 +20,8 @@ Zrób to tylko gdy łączysz się pierwszy raz z Ripple.
 
 ### Jak grać na Ripple
 - Włącz przełącznik **jako administrator**  
-- Sprawdź czy **Ripple IP** to **163.172.71.251** i **Mirror IP** to **51.255.90.169**. Jeśli nie, kliknij **Update IP** by dostać pasujące IP.
-- Sprawdź czy w przełączniku jest napisane **"You are playing on Ripple server 163.172.71.251 - 51.255.90.169"** (powinno wyglądać jak [to](https://b.catgirlsare.sexy/xqJw.png)), jeśli nie, kliknij **"On/Off"** by zmienić serwer.  
+- Sprawdź czy **Ripple IP** to **163.172.71.251** i **Mirror IP** to **51.15.222.176**. Jeśli nie, kliknij **Update IP** by dostać pasujące IP.
+- Sprawdź czy w przełączniku jest napisane **"You are playing on Ripple server 163.172.71.251 - 51.15.222.176"** (powinno wyglądać jak [to](https://b.catgirlsare.sexy/xqJw.png)), jeśli nie, kliknij **"On/Off"** by zmienić serwer.  
 - Włącz osu! i zaloguj się na twoje konto ripple  
 - Baw się dobrze!
 
