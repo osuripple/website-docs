@@ -1,5 +1,5 @@
 b19ff6a0ba1318a00ce875a0411714b4  en/bots.md
-29daad728c5e92a46c9d7c12206aabd9  en/connection_guide.md
+87c24fcfff4bc2170b2dbf71f941fb7f  en/connection_guide.md
 a9502b221890ea3346597f7b80f5de4d  en/faq.md
 383b905114b125d7bfd87a7dacdc8b56  en/fokabot.md
 96a9ef2265cef92f7a7014f3303b74b9  en/install_certificate_manually.md
