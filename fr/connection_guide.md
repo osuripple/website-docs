@@ -1,6 +1,6 @@
 ---
 title: "Comment se connecter à Ripple"
-reference_version: 87c24fcfff4bc2170b2dbf71f941fb7f
+reference_version: cb707af05d23150330a1e836dd73c5b2
 ---
 - [Enregistrez](http://ripple.moe/index.php?p=3) un compte
 - Télécharger le [changeur de serveur](https://mu.nyodev.xyz/upd.php?id=18)
@@ -20,8 +20,8 @@ Faites ceci uniquement la première fois que vous vous connectez à Ripple.
 
 ### Comment jouer sur Ripple
 - Exécuté le changeur de changeur **en tant qu'administrateur**
-- Assurez-vous que **Ripple IP** est **163.172.71.251** **Mirror IP** est **51.255.90.169**. Si non, cliquez sur **Update IP** our obtenir les bonnes adresses IP.
-- Assurez-vous que le changeur de serveur vous disent **"You are playing on Ripple server 163.172.71.251 - 51.255.90.169"** (ça devrait ressembler à [ça](https://b.catgirlsare.sexy/xqJw.png)), Si non, cliquez sur **"On/Off"** pour changer de serveur.
+- Assurez-vous que **Ripple IP** est **{ipmain}** **Mirror IP** est **{ipmirror}**. Si non, cliquez sur **Update IP** our obtenir les bonnes adresses IP.
+- Assurez-vous que le changeur de serveur vous disent **"You are playing on Ripple server {ipmain} - {ipmirror}"** (ça devrait ressembler à [ça](https://b.catgirlsare.sexy/xqJw.png)), Si non, cliquez sur **"On/Off"** pour changer de serveur.
 - Ouvrez osu! et connectez-vous avec votre compte Ripple
 - Prennez plaisir
 

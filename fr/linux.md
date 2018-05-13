@@ -1,6 +1,6 @@
 ---
 title: "Comment se connecter sur Ripple (Linux)"
-reference_version: 3bfc0f4bf02d4629ff2c1fc76d23edde
+reference_version: 2a77df23ecc8f9be75819e98afadcef1
 ---
 Ce guide est seulement pour se conncter de osu! à Ripple, et ne pas configurer le jeu lui-même. Vous pouvez suivre [ce guide]
 (https://gist.github.com/Francesco149/a2f796683a4e5195458f4bb171d88eb0) mettre le jeu en place.
@@ -11,8 +11,8 @@ Pour cela, vous devrez modifier votre fichier *hosts*. Pour ce faire, exécutez 
 Lorsque vous l'ouvrez, copiez ce qui suit en bas:
 
 ```
-163.172.71.251 osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
-51.255.90.169 bm6.ppy.sh
+{ipmain} osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
+{ipmirror} bm6.ppy.sh
 ```
 **CTRL+X** et après **Entrer** pour enrengistrer le ficher.
 
