@@ -3,16 +3,16 @@ title: "Cómo conectarse a Ripple"
 reference_version: cb707af05d23150330a1e836dd73c5b2
 ---
 - [Registra](http://ripple.moe/index.php?p=3) una cuenta  
-- Descarga [ripple server switcher](https://mu.nyodev.xyz/upd.php?id=18)
+- Descarga [Ripple Server Switcher](https://mu.nyodev.xyz/upd.php?id=18)
 - **Extrae rss.exe** en algún lugar (por ejemplo: en tu escritorio)  
 - **Desactiva tu antivirus** (algunos antivirus pueden causar algunos problemas)  
 
 
 ### Instalación del certificado
-Si quieres jugar en Ripple con **stable/beta/cutting edge**, debes instalar nuestro certificado HTTPS.  
+Si quieres jugar en Ripple con las versiones **Estable/Beta/Cutting Edge** de osu!, debes instalar nuestro certificado HTTPS.  
 Haga esto sólo la primera vez que se conecte a Ripple.  
 
-- Open the switcher  
+- Abre el switcher  
 - Haga clic en **"Instalar certificado"**  
 - Haga clic en **"Sí"**  
 

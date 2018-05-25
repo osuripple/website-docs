@@ -45,7 +45,7 @@ Estos se aplican tanto en Discord Y en el chat del juego. El chat de Discord tam
 
 1. Hacer trampa y la creación de múltiples cuentas está estrictamente prohibido.
 2. No importa si hiciste trampas en cualquier otro servidor de osu! - sólo nos importa lo que hiciste en Ripple.
-3. La creación de múltiples cuentas **NO** están permitidas, con la **ÚNICA EXCEPCIÓN DE CHAT BOTS**.  Si estás desarrollando uno y necesitas una cuenta para ello,  envíe un correo electrónico a [soporte técnico](mailto:support@ripple.moe) (o a un [desarrollador](mailto:howl@ripple.moe))
+3. La creación de múltiples cuentas **NO** está permitida, con la **ÚNICA EXCEPCIÓN DE CHAT BOTS**.  Si estás desarrollando uno y necesitas una cuenta para ello,  envíe un correo electrónico a [soporte técnico](mailto:support@ripple.moe) (o a un [desarrollador](mailto:howl@ripple.moe))
 4. Nos reservamos el derecho de cambiar estas reglas como mejor nos parezca.
 
 <h3><i class="list layout icon"></i> Varios</h3>
