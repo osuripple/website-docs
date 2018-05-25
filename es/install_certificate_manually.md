@@ -2,7 +2,7 @@
 title: "Instalación manual del certificado"
 reference_version: 96a9ef2265cef92f7a7014f3303b74b9
 ---
-Si tienes problemas para conectarte a Ripple usando stable (latest)/beta/cuttingedge o el switcher no instala el certificado correctamente, puedes instalarlo manualmente.
+Si tienes problemas para conectarte a Ripple usando stable Estable/Beta/Cutting Edge o el switcher no instala el certificado correctamente, puedes instalarlo manualmente.
 
 ### Instrucciones
 - Primero, descargue el certificado [haciendo clic aquí](https://git.zxq.co/ripple/ripple-server-switcher/raw/master/RippleServerSwitcher/Resources/certificate.cer)
@@ -25,7 +25,7 @@ Para asegurarse de que el certificado se ha instalado correctamente, asegúrese 
 ...puedes intentar eliminar todos los certificados de Ripple existentes e instalar el certificado nuevamente. Sigue estos pasos:
 
 - Presione **Win+R**  
-- Escriba `mmc certmgr.msc` en la cuadro de texto de Ejecutar y presiona **enter** para abrir el Administrador de certificados  
+- Escriba `mmc certmgr.msc` en el cuadro de texto de Ejecutar y presiona **Entrar** para abrir el Administrador de certificados  
 - Seleccione **Entidades de certificación raíz de confianza** a la izquierda  
 - Seleccione **Certificados** a la derecha  
 - Debería ver una entrada que diga **[Ripple](http://y.zxq.co/bbyxev.png)** y una o dos entradas que digan **\*.ppy.sh** en la lista. Selecciónelos, **clic derecho** y haga clic en **Borrar**  

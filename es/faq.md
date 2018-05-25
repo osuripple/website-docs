@@ -2,7 +2,7 @@
 title: "Preguntas frecuentes"
 reference_version: a9502b221890ea3346597f7b80f5de4d
 ---
-- **No puedo jugar en stable/beta/cutting edge**
+- **No puedo jugar en Estable/Beta/Cutting Edge**
 - Necesitas instalar nuestro certificado HTTPS. Descarga [nuestro switcher de servidor](https://mu.nyodev.xyz/upd.php?id=18) y haz clic en **"Install certificate"**. Si sigues teniendo problemas, [sigue estas instrucciones](https://ripple.moe/index.php?p=16&id=12) para instalar el certificado **manualmente**.
 
 -----------------------

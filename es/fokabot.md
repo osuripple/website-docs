@@ -44,5 +44,5 @@ Fokabot tiene algunos comandos similares a Tillerino. Esos comandos sólo funcio
 - `!restrict <nombre de usuario>` - Poner a alguien en modo restringido  
 - `!unrestrict <nombre de usuario>` - Eliminar el modo restringido a alguien  
 - `!fokabot reconnect` - Reconecta Fokabot si ya no está en la lista de usuarios  
-- `!alert <mensaje>` - Envia una notificación a cada usuario conectado a Bancho  
-- `!alertuser  <nombre de usuario> <mensaje>` - Envia una notificación a un usuario específico
+- `!alert <mensaje>` - Envía una notificación a cada usuario conectado a Bancho  
+- `!alertuser  <nombre de usuario> <mensaje>` - Envía una notificación a un usuario específico
