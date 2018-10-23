@@ -16,7 +16,7 @@ Alternatively, you can edit your hosts file manually. To do so, run `nano /etc/h
 When you've got it open, paste the following at the bottom:
 
 ```
-{ipmain} osu.ppy.sh a.ppy.sh c.ppy.sh c1.ppy.sh ce.ppy.sh s.ppy.sh i.ppy.sh
+{ipmain} osu.ppy.sh c.ppy.sh c1.ppy.sh c2.ppy.sh c3.ppy.sh c4.ppy.sh c5.ppy.sh c6.ppy.sh ce.ppy.sh a.ppy.sh s.ppy.sh i.ppy.sh
 {ipmirror} bm6.ppy.sh
 ```
 **CTRL+X** and then **Enter** to save the file.
