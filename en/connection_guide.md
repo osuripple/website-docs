@@ -3,39 +3,26 @@ title: "How to connect to Ripple"
 old_id: 1
 ---
 - [Register](http://ripple.moe/index.php?p=3) an account  
-- Download [ripple server switcher](https://mu.nyodev.xyz/upd.php?id=18)
-- **Extract rss.exe** somewhere (eg: on your desktop)  
+- Download the [Ripple server switcher](https://mu.nyodev.xyz/upd.php?id=18)
+- **Extract** the archive somewhere (eg: in a folder on your desktop)  
 - **Turn off your antivirus** (some antiviruses might cause some issues)  
 
 
-### Certificate installation
-If you want to play on ripple with **stable/beta/cutting edge**, you must install our HTTPS certificate.  
-Do this only the first time you connect to Ripple.  
-
-- Open the switcher  
-- Click on **"Install certificate"**  
-- Click **"Yes"**  
-
-*If you can't install the certificate properly, follow [these instructions](https://ripple.moe/index.php?p=16&id=12) to install it manually.*
-
 ### How to play on Ripple
-- Run the switcher **as administrator**  
-- Make sure **Ripple IP** is **{ipmain}** and **Mirror IP** is **{ipmirror}**. If not, click **Update IP** to get the right IPs.
-- Make sure that the switcher says **"You are playing on Ripple server {ipmain} - {ipmirror}"** (it should look like [this](https://b.catgirlsare.sexy/xqJw.png)), if not, click **"On/Off"** to switch server.  
-- Open osu! and login with your ripple account  
+- Run `RippleServerSwitcher.exe` **as administrator**  
+- Click on **Switch to Ripple**  
+- If there are some dialogs about intalling the HTTPs certificate, always click on **Ok/Yes**. The HTTPs certificate is needed to properly connect to ripple  
+- Make sure that the switcher says **You are connected to Ripple**  
+- Open osu! and login with your Ripple account  
 - Enjoy  
+_NOTE: If you can't install the certificate through the automatic procedure, follow [these instructions](https://ripple.moe/index.php?p=16&id=12) to install it manually._  
 
 ### How to play on official osu! again
 - Make sure osu! is **closed**  
-- Open the switcher and make sure it says **"You are playing on osu! server"** (it should look like [this](https://b.catgirlsare.sexy/c_lb.png)), if not, click **"On/Off"** to switch server.
+- Open the switcher and click **Switch to osu!**  
+- Make sure the switcher says **You are connected to osu!**  
 - Open osu! and login with your osu! account  
-_NOTE:_ If you want to connect to osu.ppy.sh and you still see ripple's website even if the switcher is off, empty your browser cache.
-
-### How to update osu!/switch release branch
-- Make sure osu! is **closed**  
-- Open the switcher and make sure it says **"You are playing on osu! server"** (it should look like [this](https://b.catgirlsare.sexy/c_lb.png) )  
-- Open osu! and update the game
+_NOTE: If you want to connect to osu!'s website and you see ripple's website or an error, even if the switcher claims you're connected to osu!, empty your browser cache and restart your browser._  
 
 ### Having troubles?
-
 Check out our [FAQ](https://ripple.moe/doc/5)

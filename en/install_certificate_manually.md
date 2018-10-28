@@ -2,10 +2,10 @@
 title: "Installing the certificate manually"
 old_id: 12
 ---
-If you're having troubles connecting to Ripple using stable (latest)/beta/cuttingedge or the switcher doesn't install the certificate properly, you can install the certificate manually.
+If you're having troubles connecting to Ripple or the switcher doesn't install the certificate properly, you can try installing it manually.
 
 ### Instructions
-- First, download the certificate [by clicking here](https://git.zxq.co/ripple/ripple-server-switcher/raw/master/RippleServerSwitcher/Resources/certificate.cer)
+- First, download the certificate [by clicking here](https://zxq.co/ripple/ripple-server-switcher/raw/commit/d206bffb6fc896bc9c5121b30ba302e9e31c1161/RippleServerSwitcher/Resources/certificate.cer)
 - Then, open **certificate.cer**
 - Click **Install certificate...**
 - Click **Next**
@@ -15,11 +15,10 @@ If you're having troubles connecting to Ripple using stable (latest)/beta/cuttin
 - Click **Finish**
 
 ### How to test the certificate
-To ensure the certificate has been installed successfully, make sure the switcher is **On** and open [this page](https://c.ppy.sh).  
-
-- If you see **[osu!bancho stuff](http://y.zxq.co/ubfzty.png)**, your switcher is off. **Turn it on and try again.**  
-- If you see **[some ripple stuff](http://y.zxq.co/zphobw.png)**, you're successfully connected to ripple under https, **good job!**  
-- If you get **[some certificate or security error](http://y.zxq.co/reaueu.png)**, the certificate has not been installed successfully. **Follow the instructions below.**  
+Once you've installed the certificate, you can test whether it was successfully intalled by following these steps:  
+Open the server switcher and click on **Inspect**. Wait a few seconds and all the labels in the "Server connection" section, on the right, should become green and report "OK" (like [this](http://oi66.tinypic.com/2v9q90p.jpg)). If so, you should be able to connect to Ripple.  
+- If you get **CERT ERROR**, the certificate has not been installed successfully. **Follow the instructions below.**  
+- If you get **"..."**, you're not connected to Ripple. Close the inspect window, click on **Switch to Ripple** and try again.  
 
 ### If everything else fails...
 ...you can try to remove all existing Ripple certificates and install the certificate again. Follow these steps:
@@ -28,7 +27,8 @@ To ensure the certificate has been installed successfully, make sure the switche
 - Type `mmc certmgr.msc` in the run box and press **enter** to open the Certificate Manager  
 - Select **Trusted root certification authorities** on the left  
 - Select **Certificates** on the right  
-- You should see a **[Ripple](http://y.zxq.co/bbyxev.png)** entry and one or two **\*.ppy.sh** entries in the list. Select them, **right click** and click on **Delete**  
-- Select all the positive options  
-- Open the switcher, click on **Install certificate**, then **Yes**  
-- Try to connect to [ripple's bancho server under https](https://c.ppy.sh/) and it _should_ work  
+- You should see some **[Ripple](http://y.zxq.co/bbyxev.png)** and some **\*.ppy.sh** entries in the list. Select them, **right click** and click on **Delete**  
+- Select all the positive options (Ok/Yes etc)  
+- Restart the switcher, click on **Inspect**, then choose **Install certificate**, then **Yes**  
+- Click on **Test ripple connection** and you should see "OK" for every domains  
+**If the inspect dialog is fine but you still can't connect to ripple from the game client, try running osu! as administrator**.
