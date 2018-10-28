@@ -27,7 +27,7 @@ Zrób to tylko gdy łączysz się pierwszy raz z Ripple.
 
 ### Jak grać znowu na oficjalnym serwerze osu!
 - Bądź pewny tego, że osu! jest **wyłączone**  
-- Włącz przełącznik i sprawdź czy jest napisane **"You are playing on osu! server"** (powinno wyglądać jak [to](https://b.catgirlsare.sexy/c_lb.png)), jeśli nie, klinkij **"On/off"** tby zmienić serwer.
+- Włącz przełącznik i sprawdź czy jest napisane **"You are playing on osu! server"** (powinno wyglądać jak [to](https://b.catgirlsare.sexy/c_lb.png)), jeśli nie, kliknij **"On/off"**, by zmienić serwer.
 - Włącz osu! i zaloguj się na twoje konto osu! 
 _UWAGA:_ jeśli chcesz wejść na osu.ppy.sh i wciąż widzisz stronę ripple'a nawet jeśli przełącznik jest wyłączony, wyczyść pamięć podręczną przeglądarki.
 

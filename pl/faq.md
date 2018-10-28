@@ -28,7 +28,7 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Nie moge pobierać map z osu!direct.**
-- Upewnij się że używasz najnowszej wersji switchera. Powinna wyglądać [tak](https://b.catgirlsare.sexy/xqJw.png). Jeśli wygląda inaczej, jeśli wygląda inaczej, pobierz ją [stąd](https://mu.nyodev.xyz/upd.php?id=18)
+- Upewnij się że używasz najnowszej wersji switchera. Powinna wyglądać [tak](https://b.catgirlsare.sexy/xqJw.png). Jeśli wygląda inaczej, pobierz ją [stąd](https://mu.nyodev.xyz/upd.php?id=18)
 
 -----------------------
 
