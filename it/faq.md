@@ -1,29 +1,20 @@
 ---
 title: "FAQ"
-reference_version: a9502b221890ea3346597f7b80f5de4d
+reference_version: 5195aab0bdd36b4b19955eea24397bc9
 ---
-- **Non riesco a giocare alla stable/beta/cutting edge**
-- Devi installare il nostro certificato HTTPS. Scarica [il nostro server switcher](https://mu.nyodev.xyz/upd.php?id=18) e clicca **"Install certificate"**. Se riscontri ancora dei problemi, [segui queste istruzioni](https://ripple.moe/index.php?p=16&id=12) per installare il certificato **manualmente**.
-
------------------------
 
 - **Il mio antivirus blocca lo switcher**
 - Questo perché il nostro switcher modifica il file hosts. Disabilita il tuo antivirus ed esegui di nuovo lo switcher.
 
 -----------------------
 
-- **Mi dà "Invalid Ripple IP" sullo switcher, come lo risolvo?**  
-- Assicurati di non avere caratteri invalidi (come spazi, virgole e via dicendo) nel tuo Ripple IP. L'IP deve contenere solo numeri e punti.
-
------------------------
-
 - **Mi dà "Connessione fallita" quando provo a connettermi a Ripple**  
-- Assicurati che l'IP nello switcher sia **46.105.123.39** non **127.0.0.1**. Se l'IP è impostato su 127.0.0.1, clicca il pulsante "Local/Remote", fai ripartire osu! e riprova ad eseguire l'accesso. Se ancora non riesci a risolvere il problema, vieni sul nostro [Discord](https://discord.gg/0rJcZruIsA6rXuIx) e ti daremo una mano.
+- Clicca sul pulsante "Inspect" nel server switcher e assicurati che tutte le diciture siano verdi ([così](http://oi66.tinypic.com/2v9q90p.jpg)). Se non riesci ancora a risolvere il problema, vieni nel nostro [Discord](https://discord.gg/0rJcZruIsA6rXuIx) e ti daremo una mano.
 
 -----------------------
 
 - **Mi dà "Autenticazione Bancho fallita" (password errata) quando provo a fare l'accesso, ma la mia password è corretta!**  
-- Digita il nome utente e la password, successivamente premi il pulsante **login** con il mouse. Lo so, è strano ma spesso funziona. *(assicurati inoltre che il blocco maiuscole sia disabilitato se la tua password è in minuscolo)*
+- Prima di tutto, assicurati di essere collegato a Ripple (il server switcher dovrebbe riportare "You're playing on Ripple") e che la tua password sia corretta. Se lo è, digita il nome utente e la password, successivamente premi il pulsante **login** con il mouse. Lo so, è strano ma spesso funziona. *(assicurati inoltre che il blocco maiuscole sia disabilitato se la tua password è in minuscolo)*
 
 -----------------------
 
@@ -33,17 +24,17 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Non riesco a scaricare le mappe quando sono nel multiplayer, ma riesco a scaricarle dal menu principale**
-- Disabilita **Avvia automaticamente download osu!direct** dalle opzioni e prova di nuovo.
+- Alcune mappe non possono essere scaricate dal nostro mirror per problemi tecnici.
 
 -----------------------
 
 - **Come faccio a giocare di nuovo ad osu! normale?**
-- Chiudi osu!, avvia lo switcher e spegnilo cliccando il pulsante **On/Off**
+- Chiudi osu!, avvia lo switcher e clicca sul bottone **Switch to osu!**
 
 -----------------------
 
-- **Lo switcher è spento ma quando apro osu.ppy.sh col browser vengo reindirizzato al sito di ripple!**
-- Assicurati che lo switcher sia spento, in seguito svuota la cache del browser. [Cerca su Google](http://lmgtfy.com/?q=come+svuotare+la+cache+del+browser) se non sai come farlo.
+- **Lo switcher è spento ma quando apro osu.ppy.sh col browser ottengo un errore o vengo reindirizzato al sito di ripple!**
+- Assicurati che lo switcher sia spento, in seguito svuota la cache del browser e riavvialo. [Cerca su Google](http://lmgtfy.com/?q=come+svuotare+la+cache+del+browser) se non sai come farlo.
 
 -----------------------
 
@@ -63,7 +54,7 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Posso avere il codice sorgente di ripple?**
--  Ripple è completamente open source, puoi vederlo [qui](https://git.zxq.co/ripple/ripple).
+-  Ripple è quasi completamente open source, puoi visionare il sorgente [qui](https://git.zxq.co/ripple/ripple).
 
 -----------------------
 
