@@ -15,8 +15,9 @@ If you're having troubles connecting to Ripple or the switcher doesn't install t
 - Click **Finish**
 
 ### How to test the certificate
-Once you've installed the certificate, you can test whether it was successfully intalled by following these steps:  
-Open the server switcher and click on **Inspect**. Wait a few seconds and all the labels in the "Server connection" section, on the right, should become green and report "OK" (like [this](http://oi66.tinypic.com/2v9q90p.jpg)). If so, you should be able to connect to Ripple.  
+Once you've installed the certificate, you can test whether it was successfully installed by following these steps:  
+- Open the server switcher and click on **Inspect**.  
+- Wait a few seconds and all the labels in the "Server connection" section, on the right, should become green and report "OK" (like [this](http://oi66.tinypic.com/2v9q90p.jpg)). If so, you should be able to connect to Ripple.  
 - If you get **CERT ERROR**, the certificate has not been installed successfully. **Follow the instructions below.**  
 - If you get **"..."**, you're not connected to Ripple. Close the inspect window, click on **Switch to Ripple** and try again.  
 
