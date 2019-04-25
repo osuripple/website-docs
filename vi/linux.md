@@ -10,13 +10,13 @@ Hướng dẫn này chỉ dành cho kết nối osu! vào Ripple, chứ không p
 Khi bạn đã mở nó, copy paste 2 dòng dưới đây vào cuối trang:
 
 ```
-{ipmain} osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
+{ipmain} osu.ppy.sh c.ppy.sh c1.ppy.sh c2.ppy.sh c3.ppy.sh c4.ppy.sh c5.ppy.sh c6.ppy.sh ce.ppy.sh a.ppy.sh s.ppy.sh i.ppy.sh
 {ipmirror} bm6.ppy.sh
 ```
 **CTRL+X** và **Enter** để lưu tệp.
 
 ### Cài đặt certificate
-Tải certificate bằng cách nhấp vào [*đây*](https://git.zxq.co/ripple/ripple-server-switcher/raw/master/RippleServerSwitcher/Resources/certificate.cer)
+Tải certificate bằng cách nhấp vào [*đây*](https://zxq.co/ripple/ripple-server-switcher/raw/commit/d206bffb6fc896bc9c5121b30ba302e9e31c1161/RippleServerSwitcher/Resources/certificate.cer)
 
 Mở cấu hình của Internet Explorer (configuration) bằng cách chạy `wine control`.
 

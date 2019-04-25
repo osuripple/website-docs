@@ -10,13 +10,13 @@ Najpierw musisz zmodyfikować twój pilk *hosts*. By to zrobić, wpisz w termina
 Gdy już otworzyłeś plik, wklej poniższy tekst:
 
 ```
-{ipmain} osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
+{ipmain} osu.ppy.sh c.ppy.sh c1.ppy.sh c2.ppy.sh c3.ppy.sh c4.ppy.sh c5.ppy.sh c6.ppy.sh ce.ppy.sh a.ppy.sh s.ppy.sh i.ppy.sh
 {ipmirror} bm6.ppy.sh
 ```
 **CTRL+X** potem **Enter** by zapisać plik.
 
 ### Instalowanie certyfikatu
-Pobierz certyfikat klikając [*tutaj*](https://git.zxq.co/ripple/ripple-server-switcher/raw/master/RippleServerSwitcher/Resources/certificate.cer)
+Pobierz certyfikat klikając [*tutaj*](https://zxq.co/ripple/ripple-server-switcher/raw/commit/d206bffb6fc896bc9c5121b30ba302e9e31c1161/RippleServerSwitcher/Resources/certificate.cer)
 
 Otwórz konfigurację Internet Explorer przez uruchamianie `wine control`.
 

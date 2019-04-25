@@ -10,13 +10,13 @@ Para esto, necesitarás modificar tu archivo *hosts*. Para ello, ejecute `nano /
 Cuando lo tengas abierto, pega lo siguiente en la parte inferior:
 
 ```
-{ipmain} osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
+{ipmain} osu.ppy.sh c.ppy.sh c1.ppy.sh c2.ppy.sh c3.ppy.sh c4.ppy.sh c5.ppy.sh c6.ppy.sh ce.ppy.sh a.ppy.sh s.ppy.sh i.ppy.sh
 {ipmirror} bm6.ppy.sh
 ```
 **CTRL+X** y luego **Enter** para guardar el archivo.
 
 ### Instalación del certificado
-Descarga el certificado haciendo clic [*aquí*](https://git.zxq.co/ripple/ripple-server-switcher/raw/master/RippleServerSwitcher/Resources/certificate.cer)
+Descarga el certificado haciendo clic [*aquí*](https://zxq.co/ripple/ripple-server-switcher/raw/commit/d206bffb6fc896bc9c5121b30ba302e9e31c1161/RippleServerSwitcher/Resources/certificate.cer)
 
 Abra la configuración de Internet Explorer ejecutando `wine control`.
 

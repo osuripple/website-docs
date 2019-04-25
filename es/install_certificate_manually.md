@@ -5,7 +5,7 @@ reference_version: 96a9ef2265cef92f7a7014f3303b74b9
 Si tienes problemas para conectarte a Ripple usando stable Estable/Beta/Cutting Edge o el switcher no instala el certificado correctamente, puedes instalarlo manualmente.
 
 ### Instrucciones
-- Primero, descargue el certificado [haciendo clic aquí](https://git.zxq.co/ripple/ripple-server-switcher/raw/master/RippleServerSwitcher/Resources/certificate.cer)
+- Primero, descargue el certificado [haciendo clic aquí](https://zxq.co/ripple/ripple-server-switcher/raw/commit/d206bffb6fc896bc9c5121b30ba302e9e31c1161/RippleServerSwitcher/Resources/certificate.cer)
 - A continuación, abra **certificate.cer**
 - Haga clic en **Instalar certificado...**
 - Haga clic en **Siguiente**
