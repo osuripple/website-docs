@@ -1,6 +1,6 @@
 ---
 title: "Installazione manuale del certificato"
-reference_version: a233f1b4a8c01deff1aa04db5437062b
+reference_version: 4548a100846bda49251451f487abbdad
 ---
 Se riscontri dei problemi nel connetterti a Ripple o lo switcher non installa correttamente il certificato, puoi installare il certificato manualmente.
 
@@ -18,7 +18,7 @@ Se riscontri dei problemi nel connetterti a Ripple o lo switcher non installa co
 Una volta installato il certificato, puoi testare se è stato installato correttamente seguendo questi passi:  
 
 - Apri il server switcher e clicca su **Inspect**.
-- Aspetta un paio di secondi e tutte le diciture nella sezione "Server connection" section, sulla destra, dovrebbero diventare verdi e riportare "OK" ([così](http://oi66.tinypic.com/2v9q90p.jpg)). In tal caso, dovresti essere in grado di collegarti a Ripple.  
+- Aspetta un paio di secondi e tutte le diciture nella sezione "Server connection" section, sulla destra, dovrebbero diventare verdi e riportare "OK" ([così](https://i.ibb.co/68TL6zT/Settings-Form.png)). In tal caso, dovresti essere in grado di collegarti a Ripple.  
 - Se ottieni **CERT ERROR**, il certificato non è stato installato correttamente. **Segui le istruzioni in basso.**  
 - Se ottieni **"..."**, non sei connesso a Ripple. Chiudi la finestra, clicca su **Switch to Ripple** e riprova.  
 

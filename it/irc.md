@@ -1,6 +1,6 @@
 ---
 title: "Connettersi a Ripple tramite IRC"
-reference_version: 1f7dd61cbdf2c6d8249481deb2a8d847
+reference_version: 0b0fc94436acf968d088d542eeed829c
 ---
 ## Ripple adesso ha una IRC!
 Lo sapevi che con la nostra ultima versione di **pep.py il server Bancho**, puoi connetterti alla chat di Ripple e parlare con gli altri utenti al di fuori del gioco usando un client IRC?  

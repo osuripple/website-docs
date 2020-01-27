@@ -1,7 +1,12 @@
 ---
 title: "FAQ"
-reference_version: 5195aab0bdd36b4b19955eea24397bc9
+reference_version: c41b41603f4d0de2a7cc1e684228f5a9
 ---
+
+- **Non ho ricevuto la mail di conferma, non posso attivare il mio account!**
+- Non c'è nessuna email di verifica. Per attivare il tuo account, devi semplicemente effettuare il login dal gioco. Puoi leggere tutti i passi necessari nella [nostra guida](/doc/connection_guide).
+
+-----------------------
 
 - **Il mio antivirus blocca lo switcher**
 - Questo perché il nostro switcher modifica il file hosts. Disabilita il tuo antivirus ed esegui di nuovo lo switcher.
@@ -9,7 +14,7 @@ reference_version: 5195aab0bdd36b4b19955eea24397bc9
 -----------------------
 
 - **Mi dà "Connessione fallita" quando provo a connettermi a Ripple**  
-- Clicca sul pulsante "Inspect" nel server switcher e assicurati che tutte le diciture siano verdi ([così](http://oi66.tinypic.com/2v9q90p.jpg)). Se non riesci ancora a risolvere il problema, vieni nel nostro [Discord](https://discord.gg/0rJcZruIsA6rXuIx) e ti daremo una mano.
+- Clicca sul pulsante "Inspect" nel server switcher e assicurati che tutte le diciture siano verdi ([così](https://i.ibb.co/68TL6zT/Settings-Form.png)). Se non riesci ancora a risolvere il problema, vieni nel nostro [Discord](https://discord.ripple.moe) e ti daremo una mano.
 
 -----------------------
 
@@ -19,12 +24,12 @@ reference_version: 5195aab0bdd36b4b19955eea24397bc9
 -----------------------
 
 - **Non riesco a scaricare le mappe dall'osu!direct.**
-- Assicurati di star usando l'ultima versione dello switcher. Dovrebbe essere simile a [questo](https://b.catgirlsare.sexy/xqJw.png). Se sembra diverso, scaricalo di nuovo da [qui](https://mu.nyodev.xyz/upd.php?id=18)
+- Le mappe non rankate non possono essere scaricate dal nostro mirror per problemi tecnici. 
 
 -----------------------
 
 - **Non riesco a scaricare le mappe quando sono nel multiplayer, ma riesco a scaricarle dal menu principale**
-- Alcune mappe non possono essere scaricate dal nostro mirror per problemi tecnici.
+- Disattiva **Automatically start osu!direct downloads** dalle opzioni e prova nuovamente. In alternative, puoi usare il comando `!b` in `#multiplayer` e `#spectator` per ottenere un link per scaricare la beatmap corrente.
 
 -----------------------
 
@@ -64,4 +69,4 @@ reference_version: 5195aab0bdd36b4b19955eea24397bc9
 -----------------------
 
 - **Il mio problema non è elencato qui**
-- Unisciti al nostro [discord](https://discord.gg/0rJcZruIsA6rXuIx) e fai la tua domanda nel canale #help del server.
+- Unisciti al nostro [discord](https://discord.ripple.moe) e fai la tua domanda nel canale #help del server.
