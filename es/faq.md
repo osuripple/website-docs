@@ -23,11 +23,6 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 
 -----------------------
 
-- **Obtengo "Conexión fallida" cuando intento conectarme a Ripple**  
-- Asegúrate de que la IP en el switcher es **46.105.123.39** y no **127.0.0.1**. Si la IP está configurada en 127.0.0.1, haz clic en el botón "Local/Remote", reinicia osu! e intenta iniciar sesión de nuevo. Si aún no puedes resolver este problema, ven a nuestro servidor de [Discord](https://discord.ripple.moe) y te ayudaremos.
-
------------------------
-
 - **Obtengo "Error de autenticación" (contraseña incorrecta) cuando intento iniciar sesión, ¡pero mi contraseña es correcta!**  
 - Ingresa tu nombre de usuario y contraseña, luego presiona con el ratón en el botón de **Iniciar sesión**. Lo sé, es raro, pero a menudo funciona. *(asegúrate también de que el bloqueo de mayúsculas esté desactivado si su contraseña es en minúsculas)*
 

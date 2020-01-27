@@ -23,11 +23,6 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 
 -----------------------
 
-- **Dostaje "Connection failed" gdy chcę się podłączyć do Ripple!**  
-- Upewnij się że IP na switcherze to jest **46.105.123.39** nie **127.0.0.1**. Jeśli IP jest ustawione jako 127.0.0.1, kliknij przycisk "Local/Remote", zrestartuj osu! i spróbuj zalogować się poraz kolejny. Jeśli dalej nie możesz rozwiązać swojego problemu, wejdź na naszego [Discorda](https://discord.ripple.moe) i ci pomożemy.
-
------------------------
-
 - **Dostaje "Bancho authentication failed" (wrong password) gdy próbuje się zalogować, ale moje hasło jest poprawne!**  
 - Wpisz swoją nazwe użytkownika i login, następnie kliknij przycisk **login** twoją myszką. Wiem, to dziwne, ale często działa. *(oraz upewnij się że caps lock jest wyłączony jeśli twoje hasło ma małe litery)*
 
