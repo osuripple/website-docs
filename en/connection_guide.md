@@ -3,7 +3,7 @@ title: "How to connect to Ripple"
 old_id: 1
 ---
 - [Register](http://ripple.moe/index.php?p=3) an account  
-- Download the [Ripple server switcher](https://mu.nyodev.xyz/upd.php?id=18)
+- Download the [Ripple server switcher](https://switcher.ripple.moe)
 - **Extract** the archive somewhere (eg: in a folder on your desktop)  
 - **Turn off your antivirus** (some antiviruses might cause some issues)  
 

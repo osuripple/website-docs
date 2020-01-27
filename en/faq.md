@@ -2,13 +2,19 @@
 title: "FAQ"
 old_id: 5
 ---
+
+- **I didn't receive the verification email, I cannot verify my account!**
+- There is no verification email. In order to activate the account, you simply have to log in through the game. You can read all the required steps on our [connection guide](/doc/connection_guide).
+
+-----------------------
+
 - **My antivirus is blocking the switcher**
 - That's because our switcher edits the hosts file. Turn off your antivirus and run the switcher again.
 
 -----------------------
 
 - **I get "Connection failed" when I try to connect to Ripple**  
-- Click the "Inspect" button on the server switcher and make sure that all the labels are green (like [this](http://oi66.tinypic.com/2v9q90p.jpg)). If you still can't solve this problem, come on our [Discord](https://discord.gg/0rJcZruIsA6rXuIx) and we'll help you.
+- Click the "Inspect" button on the server switcher and make sure that all the labels are green ([like this](https://i.ibb.co/68TL6zT/Settings-Form.png)). If you still can't solve this problem, come on our [Discord](https://discord.ripple.moe) and we'll help you.
 
 -----------------------
 
@@ -18,12 +24,12 @@ old_id: 5
 -----------------------
 
 - **I can't download maps from osu!direct.**
-- Some maps can't be downloaded from our beatmap mirror due to technical reasons.
+- Unranked beatmaps can't be downloaded from our beatmap mirror due to technical reasons.
 
 -----------------------
 
 - **I can't download maps when I'm in multiplayer, but I can download them from the main menu**
-- Disable **Automatically start osu!direct downloads** from the options and try again.
+- Disable **Automatically start osu!direct downloads** from the options and try again. Alternatively, you can use the `!b` command in `#multiplayer` and `#spectator` to get a download link for the current beatmap.
 
 -----------------------
 
@@ -63,4 +69,4 @@ old_id: 5
 -----------------------
 
 - **My problem is not listed here**
-- Join our [discord](https://discord.gg/0rJcZruIsA6rXuIx) and ask your question in the #help channel of the server.
+- Join our [discord](https://discord.ripple.moe) and ask your question in the #help channel of the server.
