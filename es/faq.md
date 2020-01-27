@@ -2,8 +2,14 @@
 title: "Preguntas frecuentes"
 reference_version: a9502b221890ea3346597f7b80f5de4d
 ---
+
+- **I didn't receive the verification email, I cannot verify my account!**
+- There is no verification email. In order to activate the account, you simply have to log in through the game. You can read all the required steps on our [connection guide](/doc/connection_guide).
+
+-----------------------
+
 - **No puedo jugar en Estable/Beta/Cutting Edge**
-- Necesitas instalar nuestro certificado HTTPS. Descarga [nuestro switcher de servidor](https://mu.nyodev.xyz/upd.php?id=18) y haz clic en **"Install certificate"**. Si sigues teniendo problemas, [sigue estas instrucciones](https://ripple.moe/index.php?p=16&id=12) para instalar el certificado **manualmente**.
+- Necesitas instalar nuestro certificado HTTPS. Descarga [nuestro switcher de servidor](https://switcher.ripple.moe) y haz clic en **"Install certificate"**. Si sigues teniendo problemas, [sigue estas instrucciones](https://ripple.moe/index.php?p=16&id=12) para instalar el certificado **manualmente**.
 
 -----------------------
 
@@ -18,7 +24,7 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Obtengo "Conexión fallida" cuando intento conectarme a Ripple**  
-- Asegúrate de que la IP en el switcher es **46.105.123.39** y no **127.0.0.1**. Si la IP está configurada en 127.0.0.1, haz clic en el botón "Local/Remote", reinicia osu! e intenta iniciar sesión de nuevo. Si aún no puedes resolver este problema, ven a nuestro servidor de [Discord](https://discord.gg/0rJcZruIsA6rXuIx) y te ayudaremos.
+- Asegúrate de que la IP en el switcher es **46.105.123.39** y no **127.0.0.1**. Si la IP está configurada en 127.0.0.1, haz clic en el botón "Local/Remote", reinicia osu! e intenta iniciar sesión de nuevo. Si aún no puedes resolver este problema, ven a nuestro servidor de [Discord](https://discord.ripple.moe) y te ayudaremos.
 
 -----------------------
 
@@ -28,7 +34,7 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **No puedo descargar mapas de osu!direct.**
-- Asegúrate de que estés usando la última versión del switcher. Debería ser similar a [esto](https://b.catgirlsare.sexy/xqJw.png). Si se ve diferente, descárgalo de nuevo de [aquí](https://mu.nyodev.xyz/upd.php?id=18)
+- Asegúrate de que estés usando la última versión del switcher. Debería ser similar a [esto](https://b.catgirlsare.sexy/xqJw.png). Si se ve diferente, descárgalo de nuevo de [aquí](https://switcher.ripple.moe)
 
 -----------------------
 
@@ -73,4 +79,4 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Mi problema no está enlistado aquí**
-- Únete a nuestro [Discord](https://discord.gg/0rJcZruIsA6rXuIx) y haz tu pregunta en el canal #help del servidor.
+- Únete a nuestro [Discord](https://discord.ripple.moe) y haz tu pregunta en el canal #help del servidor.

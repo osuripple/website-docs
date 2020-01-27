@@ -2,8 +2,14 @@
 title: "FAQ"
 reference_version: a9502b221890ea3346597f7b80f5de4d
 ---
+
+- **I didn't receive the verification email, I cannot verify my account!**
+- There is no verification email. In order to activate the account, you simply have to log in through the game. You can read all the required steps on our [connection guide](/doc/connection_guide).
+
+-----------------------
+
 - **Я не могу играть на stable/beta/cutting edge версии**
-- Вам нужно установить наш HTTPS сертификат. Скачайте [наш switcher](https://mu.nyodev.xyz/upd.php?id=18) и нажмите **"Install certificate"**. Если у вас возникают проблемы, [следуйте этим инструкциям](https://ripple.moe/index.php?p=16&id=12), чтобы установить сертификат **вручную**.
+- Вам нужно установить наш HTTPS сертификат. Скачайте [наш switcher](https://switcher.ripple.moe) и нажмите **"Install certificate"**. Если у вас возникают проблемы, [следуйте этим инструкциям](https://ripple.moe/index.php?p=16&id=12), чтобы установить сертификат **вручную**.
 
 -----------------------
 
@@ -18,7 +24,7 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Когда я пытаюсь подключиться к Ripple, появляется ошибка "Connection failed"**  
-- Убедитесь, что IP в switcher **46.105.123.39**, а не **127.0.0.1**. Если указан IP 127.0.0.1, нажмите на кнопку "Local/Remote", перезагрузите osu! и попробуйте залогиниться еще раз. Если это так и не помогло решить вам проблему, зайдите в [Discord](https://discord.gg/0rJcZruIsA6rXuIx) и мы поможем вам.
+- Убедитесь, что IP в switcher **46.105.123.39**, а не **127.0.0.1**. Если указан IP 127.0.0.1, нажмите на кнопку "Local/Remote", перезагрузите osu! и попробуйте залогиниться еще раз. Если это так и не помогло решить вам проблему, зайдите в [Discord](https://discord.ripple.moe) и мы поможем вам.
 
 -----------------------
 
@@ -28,7 +34,7 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Я не могу скачивать карты через osu!direct.**
-- Убедитесь, что вы используете последнюю версию switcher. Он должен выглядеть [так](https://b.catgirlsare.sexy/xqJw.png). Если он выглядит по-другому, скачайте его заново [отсюда](https://mu.nyodev.xyz/upd.php?id=18)
+- Убедитесь, что вы используете последнюю версию switcher. Он должен выглядеть [так](https://b.catgirlsare.sexy/xqJw.png). Если он выглядит по-другому, скачайте его заново [отсюда](https://switcher.ripple.moe)
 
 -----------------------
 
@@ -73,4 +79,4 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Здесь нет моей проблемы**
-- Зайдите в наш [Discord](https://discord.gg/0rJcZruIsA6rXuIx) и задайте свой вопрос на канале #help.
+- Зайдите в наш [Discord](https://discord.ripple.moe) и задайте свой вопрос на канале #help.

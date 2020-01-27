@@ -2,8 +2,14 @@
 title: "Pytania i odpowiedzi"
 reference_version: a9502b221890ea3346597f7b80f5de4d
 ---
+
+- **I didn't receive the verification email, I cannot verify my account!**
+- There is no verification email. In order to activate the account, you simply have to log in through the game. You can read all the required steps on our [connection guide](/doc/connection_guide).
+
+-----------------------
+
 - **Nie moge grać na stable/beta/cutting edge!**
-- Musisz zainstalować nasz certyfikat HTTPS. Pobierz [nasz server switcher](https://mu.nyodev.xyz/upd.php?id=18) i wciśnij **"Install certificate"**. Jeżeli cały czas napotykasz problemy, [podążaj za tymi instrukcjami](https://ripple.moe/index.php?p=16&id=12) aby zainstalować certyfikat **manualnie**.
+- Musisz zainstalować nasz certyfikat HTTPS. Pobierz [nasz server switcher](https://switcher.ripple.moe) i wciśnij **"Install certificate"**. Jeżeli cały czas napotykasz problemy, [podążaj za tymi instrukcjami](https://ripple.moe/index.php?p=16&id=12) aby zainstalować certyfikat **manualnie**.
 
 -----------------------
 
@@ -18,7 +24,7 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Dostaje "Connection failed" gdy chcę się podłączyć do Ripple!**  
-- Upewnij się że IP na switcherze to jest **46.105.123.39** nie **127.0.0.1**. Jeśli IP jest ustawione jako 127.0.0.1, kliknij przycisk "Local/Remote", zrestartuj osu! i spróbuj zalogować się poraz kolejny. Jeśli dalej nie możesz rozwiązać swojego problemu, wejdź na naszego [Discorda](https://discord.gg/0rJcZruIsA6rXuIx) i ci pomożemy.
+- Upewnij się że IP na switcherze to jest **46.105.123.39** nie **127.0.0.1**. Jeśli IP jest ustawione jako 127.0.0.1, kliknij przycisk "Local/Remote", zrestartuj osu! i spróbuj zalogować się poraz kolejny. Jeśli dalej nie możesz rozwiązać swojego problemu, wejdź na naszego [Discorda](https://discord.ripple.moe) i ci pomożemy.
 
 -----------------------
 
@@ -28,7 +34,7 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Nie moge pobierać map z osu!direct.**
-- Upewnij się że używasz najnowszej wersji switchera. Powinna wyglądać [tak](https://b.catgirlsare.sexy/xqJw.png). Jeśli wygląda inaczej, pobierz ją [stąd](https://mu.nyodev.xyz/upd.php?id=18)
+- Upewnij się że używasz najnowszej wersji switchera. Powinna wyglądać [tak](https://b.catgirlsare.sexy/xqJw.png). Jeśli wygląda inaczej, pobierz ją [stąd](https://switcher.ripple.moe)
 
 -----------------------
 
@@ -73,4 +79,4 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Nie ma tutaj mojego problemu!**
-- Dołącz do naszego [discorda](https://discord.gg/0rJcZruIsA6rXuIx) i poproś o pomoc w kanale #help.
+- Dołącz do naszego [discorda](https://discord.ripple.moe) i poproś o pomoc w kanale #help.

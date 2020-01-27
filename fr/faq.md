@@ -2,8 +2,14 @@
 title: "F.A.Q"
 reference_version: a9502b221890ea3346597f7b80f5de4d
 ---
+
+- **I didn't receive the verification email, I cannot verify my account!**
+- There is no verification email. In order to activate the account, you simply have to log in through the game. You can read all the required steps on our [connection guide](/doc/connection_guide).
+
+-----------------------
+
 - **Je ne peux pas jouer sur stable/beta/expérimental**
-- Vous devez installer notre certificat HTTPS. Télécharger [notre changeur de serveur](https://mu.nyodev.xyz/upd.php?id=18) puis cliquez sur **"Install certificate"**.Si vous rencontrez toujours des problèmes, [suivez ces instructions](https://ripple.moe/index.php?p=16&id=12) pour installer le certificat **manuellement**.
+- Vous devez installer notre certificat HTTPS. Télécharger [notre changeur de serveur](https://switcher.ripple.moe) puis cliquez sur **"Install certificate"**.Si vous rencontrez toujours des problèmes, [suivez ces instructions](https://ripple.moe/index.php?p=16&id=12) pour installer le certificat **manuellement**.
 
 -----------------------
 
@@ -18,7 +24,7 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **J'ai reçu "Connection failed" quand j'essaye de me connecter sur Ripple**  
-- Soyez sûr que l'adresse IP sur le changeur de serveur est bien **46.105.123.39** et non **127.0.0.1**. Si l'adresse IP a été réglé sur 127.0.0.1, cliquez sur le bouton "Local/Remote", redémarrez osu! et réessayez de vous connecter. Si celà n'a pas résolu votre problème, venez sur notre [Discord](https://discord.gg/0rJcZruIsA6rXuIx) et nous vous aiderons.
+- Soyez sûr que l'adresse IP sur le changeur de serveur est bien **46.105.123.39** et non **127.0.0.1**. Si l'adresse IP a été réglé sur 127.0.0.1, cliquez sur le bouton "Local/Remote", redémarrez osu! et réessayez de vous connecter. Si celà n'a pas résolu votre problème, venez sur notre [Discord](https://discord.ripple.moe) et nous vous aiderons.
 
 -----------------------
 
@@ -28,7 +34,7 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Je ne peux pas télécharger les maps depuis osu!Direct.**
-- Assurez-vous d'utiliser la dernière version du changeur de serveur. Cela devrait ressembler à [ça](https://b.catgirlsare.sexy/xqJw.png). Si cela semble différent, téléchargez-le à nouveau [ici](https://mu.nyodev.xyz/upd.php?id=18)
+- Assurez-vous d'utiliser la dernière version du changeur de serveur. Cela devrait ressembler à [ça](https://b.catgirlsare.sexy/xqJw.png). Si cela semble différent, téléchargez-le à nouveau [ici](https://switcher.ripple.moe)
 
 -----------------------
 
@@ -71,4 +77,4 @@ reference_version: a9502b221890ea3346597f7b80f5de4d
 -----------------------
 
 - **Mon problème n'est pas listé ici**
-- Rejoingnez notre [Discord](https://discord.gg/0rJcZruIsA6rXuIx) Et posez votre question dans le channel #help du serveur.
+- Rejoingnez notre [Discord](https://discord.ripple.moe) Et posez votre question dans le channel #help du serveur.
