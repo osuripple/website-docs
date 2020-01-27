@@ -3,7 +3,7 @@ title: "Wagese koge tagetele Ripple"
 reference_version: 0992943749e7fb7c8a62ab99d89f495a
 ---
 - [Dashumitekikoshuda](http://ripple.moe/index.php?p=3) lole account 
-- Jageselebigeloja [ripple kisetekosowashuda](https://mu.nyodev.xyz/upd.php?id=18)
+- Jageselebigeloja [ripple kisetekosowashuda](https://switcher.ripple.moe)
 - **Shukakodalosoko rss.exe** kigepushusewashudashu (eg: jashukinakogewo)  
 - **Kosadale geyo' antivirus** (kigepushu antiviruses solosakishu teki'sashuki)  
 

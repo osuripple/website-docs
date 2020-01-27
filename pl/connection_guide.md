@@ -3,7 +3,7 @@ title: "Jak połączyć się z Ripple"
 reference_version: 0992943749e7fb7c8a62ab99d89f495a
 ---
 - [Zarejestruj](http://ripple.moe/index.php?p=3) konto
-- Pobierz [przełącznik serwerów](https://mu.nyodev.xyz/upd.php?id=18)
+- Pobierz [przełącznik serwerów](https://switcher.ripple.moe)
 - **Wypakuj rss.exe** gdzieś (np. na pulpicie)  
 - **Wyłącz antywirusa** (niektóre antywirusy mogą powodować problemy)  
 

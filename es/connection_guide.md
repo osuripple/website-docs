@@ -3,7 +3,7 @@ title: "Cómo conectarse a Ripple"
 reference_version: cb707af05d23150330a1e836dd73c5b2
 ---
 - [Registra](http://ripple.moe/index.php?p=3) una cuenta  
-- Descarga [Ripple Server Switcher](https://mu.nyodev.xyz/upd.php?id=18)
+- Descarga [Ripple Server Switcher](https://switcher.ripple.moe)
 - **Extrae rss.exe** en algún lugar (por ejemplo: en tu escritorio)  
 - **Desactiva tu antivirus** (algunos antivirus pueden causar algunos problemas)  
 
