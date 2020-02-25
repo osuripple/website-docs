@@ -11,9 +11,9 @@ In other words, all PP you gain in Relax mode will not affect your Classic mode 
 ## How to switch between Classic and Relax in-game
 By default, all in-game leaderboards will display classic mode scores. Relax scores have their own leaderboard, separate from the classic one.
 
-If you submit a score with Relax or Autopilot, it'll be submitted but it'll be visible **only on the relax leaderboard**. You can switch between classic and relax by **sending a message containing `!relax` anywhere in the chat.** Don't worry about spamming, `!relax` messages are visible only to you. If you're not multiplaying or being spectated, you'll immediately see your leaderboard reloaded, otherwise click on "Global leaderboard" to reload it. Your in-game stats will regard relax mode as well.
+If you submit a score with Relax or Autopilot, it'll be submitted but it'll be visible **only on the relax leaderboard**. You can switch between classic and relax by **sending a message containing `!relax` or `!rx` anywhere in the chat.** Don't worry about spamming, these messages are visible only to you. If you're not multiplaying or being spectated, you'll immediately see your leaderboard reloaded, otherwise click on "Global leaderboard" to reload it. Your in-game stats will regard relax mode as well.
 
-**Typing `!relax` again will switch you back to classic mode.** You can also use `!relax on` and `!relax off` if you want to explicitly switch to Relax or Classic respectively.
+**Typing `!relax` again will switch you back to classic mode.** You can also use `!relax on` and `!relax off`/`!classic` if you want to explicitly switch to Relax or Classic respectively.
 
 ## How to view Relax leaderboards & profiles on the website
 If you want to see the global or country leaderboards in Relax mode, go to our [leaderboard](/leaderboard) page and click the "Relax" button. Click to "Classic" to switch back to classic mode.
