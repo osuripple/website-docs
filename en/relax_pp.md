@@ -1,10 +1,10 @@
 ---
 title: "Relax PP"
 ---
-**Ripple now has support for Relax PP!** We have divided all leaderboards (global, country and per-score) in two sections: **Classic and Relax**.
+**Ripple now has support for Relax PP!** We have divided all leaderboards (global, country and per-beatmap) in two sections: **Classic and Relax**.
 
 - **Classic** is the normal leaderboard system, where Relax and Autopilot are not ranked
-- **Relax** has support for Relax and Autopilot on osu!standard, osu!taiko and osu!catch, with a tweaked PP system.
+- **Relax** has support for Relax and Autopilot PP on osu!standard, osu!taiko and osu!catch, with a tweaked PP system.
 
 In other words, all PP you gain in Relax mode will not affect your Classic mode stats, so if you don't like this feature, you can ignore it entirely and it won't affect your rank.
 
