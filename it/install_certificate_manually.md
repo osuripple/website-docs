@@ -5,7 +5,7 @@ reference_version: 4548a100846bda49251451f487abbdad
 Se riscontri dei problemi nel connetterti a Ripple o lo switcher non installa correttamente il certificato, puoi installare il certificato manualmente.
 
 ### Istruzioni
-- Per prima cosa, scarica il certificato [cliccando qui](https://zxq.co/ripple/ripple-server-switcher/raw/commit/d206bffb6fc896bc9c5121b30ba302e9e31c1161/RippleServerSwitcher/Resources/certificate.cer)
+- Per prima cosa, scarica il certificato [cliccando qui](https://zxq.co/ripple/ripple-server-switcher/-/raw/master/RippleServerSwitcher/Resources/ripple.cer?inline=false)
 - In seguito, apri **certificate.cer**
 - Clicca **Installa certificato...**
 - Clicca **Avanti**

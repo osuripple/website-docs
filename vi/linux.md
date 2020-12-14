@@ -16,7 +16,7 @@ Khi bạn đã mở nó, copy paste 2 dòng dưới đây vào cuối trang:
 **CTRL+X** và **Enter** để lưu tệp.
 
 ### Cài đặt certificate
-Tải certificate bằng cách nhấp vào [*đây*](https://zxq.co/ripple/ripple-server-switcher/raw/commit/d206bffb6fc896bc9c5121b30ba302e9e31c1161/RippleServerSwitcher/Resources/certificate.cer)
+Tải certificate bằng cách nhấp vào [*đây*](https://zxq.co/ripple/ripple-server-switcher/-/raw/master/RippleServerSwitcher/Resources/ripple.cer?inline=false)
 
 Mở cấu hình của Internet Explorer (configuration) bằng cách chạy `wine control`.
 

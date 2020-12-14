@@ -22,7 +22,7 @@ When you've got it open, paste the following at the bottom:
 **CTRL+X** and then **Enter** to save the file.
 
 ### 2. Installing the certificate
-Download the certificate by clicking [*here*](https://zxq.co/ripple/ripple-server-switcher/raw/commit/d206bffb6fc896bc9c5121b30ba302e9e31c1161/RippleServerSwitcher/Resources/certificate.cer)
+Download the certificate by clicking [*here*](https://zxq.co/ripple/ripple-server-switcher/-/raw/master/RippleServerSwitcher/Resources/ripple.cer?inline=false)
 
 Open the Internet Explorer configuration by running `wine control`.
 
