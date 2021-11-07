@@ -2,27 +2,63 @@
 title: "How to connect to Ripple"
 old_id: 1
 ---
-- [Register](http://ripple.moe/index.php?p=3) an account  
-- Download the [Ripple server switcher](https://switcher.ripple.moe)
-- **Extract** the archive somewhere (eg: in a folder on your desktop)  
-- **Turn off your antivirus** (some antiviruses might cause some issues)  
+- First, you have to [Register](http://ripple.moe/index.php?p=3) an account  
 
 
-### How to play on Ripple
-- Run `RippleServerSwitcher.exe` **as administrator**  
-- Click on **Switch to Ripple**  
-- If there are some dialogs about intalling the HTTPs certificate, always click on **Ok/Yes**. The HTTPs certificate is needed to properly connect to ripple  
-- Make sure that the switcher says **You are connected to Ripple**  
-- Open osu! and login with your Ripple account  
-- Enjoy  
-_NOTE: If you can't install the certificate through the automatic procedure, follow [these instructions](https://ripple.moe/index.php?p=16&id=12) to install it manually._  
+### How to play on Ripple (Windows Shortcut)
+- **Create a shortcut** of your osu!.exe:
+    - **If you already have an osu! shortcut on your desktop**, create a copy of it and rename it to "Ripple"
+    - **If you don't have one:**
+        - Find osu! in your start menu and click "Open file location"
+        - Right click osu! in the file explorer and select Open file location
+        - Hold Alt and drag osu! on your desktop
+        - Click "Create shortcut here"
+
+- Right click on the newly created shortcut and choose "Properties"
+- Add a space and `-devserver ripple.moe` at the very end of the **"Target"** field
+- **Open the "Ripple" shortcut** and enter your credentials to log in to Ripple
+
+- A video tutorial on how to do this [is linked here](https://www.youtube.com/watch?v=NkDMdyLgF0U) 
+
+### How to play on Ripple (Steam Shortcut)
+- Add osu! as a non-Steam game on Steam
+- Right click on osu! on Steam and select Properties
+- Rename the game to "Ripple" and add a space and `-devserver ripple.moe` at the end of the "target" field
+
+### How to play on Ripple (Linux)
+- Open the script you use to launch osu
+- Add `"$@"` after `osu!.exe` if it's not already present. So if it looks like this:
+
+    ```sh
+    wine osu\!.exe
+    ```
+
+    It will become
+
+    ```sh
+    wine osu\!.exe "$@"
+    ```
+
+- Then, add `-devserver ripple.moe` when you launch the script. So if you launch osu! with:
+
+    ```sh
+    ./osu.sh
+    ```
+
+    You can launch ripple with
+
+    ```sh
+    ./osu.sh -devserver ripple.moe
+    ```
+
+If you only play on ripple, you can also replace `"$@"` with `-devserver ripple.moe` so you don't have to type the server address each time
 
 ### How to play on official osu! again
-- Make sure osu! is **closed**  
-- Open the switcher and click **Switch to osu!**  
-- Make sure the switcher says **You are connected to osu!**  
-- Open osu! and login with your osu! account  
-_NOTE: If you want to connect to osu!'s website and you see ripple's website or an error, even if the switcher claims you're connected to osu!, empty your browser cache and restart your browser._  
+You can simply launch the appropriate shortcut to launch either osu! or ripple.
+
+Please note that, for security reasons, the client will log you out each time you switch servers.
 
 ### Having troubles?
-Check out our [FAQ](https://ripple.moe/doc/5)
+You can check out out [Legacy connection guide](https://ripple.moe/doc/legacy_connection_guide) to use the server switched and https certificate to connect, however this method will be discontinued soon.
+
+Also remember to check out our [FAQ](https://ripple.moe/doc/5)

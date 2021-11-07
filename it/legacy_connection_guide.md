@@ -1,5 +1,5 @@
 ---
-title: "Come connettersi a Ripple"
+title: "Come connettersi a Ripple (Vecchio metodo)"
 reference_version: 3ef6cbdc3d23fe3cad4e56231ef516d0
 ---
 - [Registra](http://ripple.moe/index.php?p=3) un account 
